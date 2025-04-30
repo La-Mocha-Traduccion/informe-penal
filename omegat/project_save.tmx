@@ -96,6 +96,14 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>De esta manera, nuestra propuesta se encuentra orientada a facilitar herramientas laborales y educativas que brinden mayores oportunidades al momento de recuperar la libertad, con conocimiento de los derechos existentes.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T170654Z" creationid="poppy" creationdate="20250430T170654Z">
+        <seg>In this sense, our proposal is aimed towards facilitating labor and educational tools that provide greater opportunities when regaining freedom, aided by the knowledge of existing rights.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Desde el organismo realizamos un trabajo específico con las personas LGBT+ privadas de su libertad, a través de las acciones promovidas desde el Equipo de Género y Diversidad Sexual.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T162031Z" creationid="poppy" creationdate="20250430T162031Z">
@@ -205,8 +213,8 @@ maybe check the last part after the and again</note>
       <tuv lang="es-AR">
         <seg>Este proyecto se encuentra enmarcado en la necesidad de promover acciones de promoción de derechos y acceso a la información a la comunidad de personas travestis, trans y no binarias que atraviesan el contexto de encierro,  como la Ley de Identidad de Género (26.7443) y la Ley de Promoción del Acceso al Empleo Formal para Personas Travestis, Transexuales “Diana Sacayan- Lohana Berkins” (Ley 27.636).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T170356Z" creationid="poppy" creationdate="20250430T170356Z">
-        <seg>This project is framed by the need to promote incarcerated transvestite, trans, and non-binary communities, such  </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T170508Z" creationid="poppy" creationdate="20250430T170356Z">
+        <seg>This project is framed by the need to promote incarcerated transvestite, trans, and non-binary people's access to information about their rights, such as the Gender Identity Law (26.7443) and the Law for the Promotion of Access to Formal Employment for Transvestite and Transgender People "Diana Sacayan–Lohana Berkins" (Ley 27.636).  </seg>
       </tuv>
     </tu>
     <tu>
