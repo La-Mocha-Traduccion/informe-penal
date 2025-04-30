@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>A esta misión la  realiza a través del diseño, la organización y la implementación de acciones de promoción social, educativa, cultural, política, habitacional, laboral y de salud con perspectiva de género y enfoque de Derechos Humanos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T161601Z" creationid="poppy" creationdate="20250430T161601Z">
+        <seg>This mission is realized through the design, organization, and implementation of   social, educational, cultural, political, labor, and health projects through the perspective of gender and human rights. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>A lo largo de este documento, se encuentran los testimonios y reflexiones que emergieron de los encuentros realizados en el Complejo Penitenciario IV de Ezeiza, y que reflejan el impacto positivo de este proyecto en la vida de sus participantes.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T154454Z" creationid="poppy" creationdate="20250430T154454Z">
