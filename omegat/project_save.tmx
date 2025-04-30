@@ -211,6 +211,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Entrar al penal de forma periódica implica interrumpir el &lt;t0/&gt;tiempo carcelario&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T173252Z" creationid="poppy" creationdate="20250430T173240Z">
+        <seg>Regularly entering the prison implies an interruption of &lt;t0/&gt;carcel time&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Es esencial el trabajo en conjunto entre las organizaciones sociales, autoridades penitenciarias y la sociedad civil para crear un entorno donde se respete nuestra identidad de género y se garantice el acceso a servicios básicos, como son la educación y el trabajo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T161941Z" creationid="Socorra" creationdate="20250430T161941Z">
@@ -223,6 +231,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T162532Z" creationid="poppy" creationdate="20250430T162532Z">
         <seg>This alliance also took as a goal the strengthening of collaborative work between the State and civil society. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Este acto rompe la rutina diaria, el cotidiano, genera una salida del pabellón.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T173358Z" creationid="poppy" creationdate="20250430T173358Z">
+        <seg>This act breaks daily routine, the quotidian, generating a way out of the ward. </seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +462,14 @@ critical could be dire</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>¿Cuál es la importancia éste taller?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T173130Z" creationid="poppy" creationdate="20250430T173130Z">
+        <seg>What is the importance of this workshop?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>¿Qué sucedió durante el encuentro?</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T172007Z" creationid="poppy" creationdate="20250430T172007Z">
@@ -459,6 +483,14 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T172620Z" creationid="poppy" creationdate="20250430T172359Z">
         <seg>What connections are made?) to come to conclusions about why it is fundamental to carry out this workshop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>“El taller fue como un puente, que nos permitió pensar el afuera”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T173201Z" creationid="poppy" creationdate="20250430T173201Z">
+        <seg>"The workshop was a bridge that allowed us to think of the outside."</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
