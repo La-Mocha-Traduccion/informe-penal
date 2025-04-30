@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>Creemos que la alianza entre instituciones de derechos humanos y la sociedad civil resultan fundamentales en la protección y promoción de derechos de las personas privadas de su libertad, y en este sentido, entendemos que es muy importante apoyar y fomentar el trabajo con organizaciones como la Mocha Celis, desde donde realizan un trabajo crucial a favor de la comunidad LGBT+.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T154100Z" creationid="poppy" creationdate="20250430T154100Z">
+        <seg>We believe that the alliance between human rights organizations and civil society is fundamental in the protection and promotion of the rights of people deprived of their liberty and, in this sense, we understand that it is important to support and encourage the work of organizations such as Mocha Celis, who carry out crucial work on behalf of the LGBT+ community. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Este trabajo da cuenta de la experiencia y el desarrollo del proyecto “Más allá de los muros: Fortalecimiento de derechos en el proceso de liberación de personas travestis, trans y no binarias privadas de su libertad”, llevada adelante por la Procuración Penitenciaria de la Nación, la Asociación Mocha Celis y la Embajada de Países Bajos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T153740Z" creationid="poppy" creationdate="20250430T153740Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T153425Z" creationid="poppy" creationdate="20250430T153425Z">
         <seg>Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La iniciativa nació del compromiso por construir puentes entre instituciones, organizaciones de la sociedad civil y la comunidad internacional para promover los derechos humanos de manera integral y transversal.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T153916Z" creationid="poppy" creationdate="20250430T153916Z">
+        <seg>The initiative was born of the commitment to build bridges etween institutions, civil society organizations and the international community to promote human rights in a comprehensive and transversal way. </seg>
       </tuv>
     </tu>
     <tu>
