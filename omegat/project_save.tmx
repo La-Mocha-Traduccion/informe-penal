@@ -143,6 +143,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>En este espacio se realizaron encuentros quincenales con talleres que cada uno tuvo uno duración de 2.30 horas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T165422Z" creationid="poppy" creationdate="20250430T165422Z">
+        <seg>In this space, meetings were held every fortnight with a duration of 2.30 hours each. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"construction of collectivity" was a creative liberty
 maybe check the last part after the and again</note>
       <tuv lang="es-AR">
