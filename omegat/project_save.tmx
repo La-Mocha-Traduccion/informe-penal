@@ -147,8 +147,8 @@ could be story or history</note>
       <tuv lang="es-AR">
         <seg>El proceso de liberación de mis pares no solo debe centrarse en la reintegración social, sino también en garantizar que sus derechos sean reconocidos y respetados en todas las etapas del proceso.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Socorra" changedate="20250430T161132Z" creationid="Socorra" creationdate="20250430T161132Z">
-        <seg>The process of liberating my peers must not only be focused on social reintegration, but also on guaranteeing that our rights are recognized and respected at every step of the process.</seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T175228Z" creationid="Socorra" creationdate="20250430T161132Z">
+        <seg>The process of liberating my peers must not only be focused on social reintegration, but also on guaranteeing that our rights are recognized and respected at every stage of the process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165,6 +165,24 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T160641Z" creationid="poppy" creationdate="20250430T155850Z">
         <seg>The project  &lt;t0/&gt; "Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty&lt;t1/&gt;" is a collaborative initiative between the Mocha Celis Civil Association and the Prison Ombudsman's National Office (PPN), realized with the support of the &lt;t2/&gt; Human Rights Fund of the Kingdom of the Netherlands.&lt;t3/&gt; The project is part of our organizations' commitment to the defense, protection, and promotion of the rights of transvestite, trans, and non-binary people deprived of liberty. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>maybe such as would be better</note>
+      <tuv lang="es-AR">
+        <seg>En el caso de Argentina, las situaciones de estigma, discriminación y violencias estructurales se presentan desde etapas tempranas de la vida, comenzando con la expulsión de los hogares y siguiendo con la falta de acceso a derechos humanos básicos como la salud, la educación, la vivienda o el trabajo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T175611Z" creationid="Socorra" creationdate="20250430T175209Z">
+        <seg>In the case of Argentina, the conditions of stigma, discrimination, and structural violence present themselves from early stages of life, beginning with the expulsion from homes and continuing with the lack of access to basic human rights as health, education, housing, or work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>translate personas as people or persons? Persons is more formal</note>
+      <tuv lang="es-AR">
+        <seg>En el&lt;t1/&gt; informe “Violencia contra personas LGBTI” la Comisión Interamericana de Derechos Humanos (CIDH) se ha podido documentar que en la mayoría de los países de América Latina las experiencias de vida de las personas travestis, trans y no binarias se encuentran marcadas por un entramado social de violencia, discriminación y criminalización que generalmente comienza desde muy temprana edad, producto de la exclusión y violencia sufrida en sus hogares, comunidades y centros educativos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T174338Z" creationid="Socorra" creationdate="20250430T173441Z">
+        <seg>In the report “Violence Against LGBTI Persons” the Interamerican Commission of Human Rights (ICHD) has been able to document que in the majority of the countries of Latin America the life experiences of travesti, trans, and non-binary people are found marked by a social structure of violence, discrimination, and criminalization que generally begins from a very early age, product of the exclusion and violence suffered in their homes, communities, and educational centers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215,6 +233,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173252Z" creationid="poppy" creationdate="20250430T173240Z">
         <seg>Regularly entering the prison implies an interruption of &lt;t0/&gt;carcel time&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Es decir que la violencia constante, transversal, diseminada y desde temprana edad generan las condiciones de muerte prematura en las personas travestis y trans.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T175050Z" creationid="Socorra" creationdate="20250430T175050Z">
+        <seg>That is to say that constant, transversal, and disseminated violence from an early age generates the conditions of premature death in travesti and trans people.</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,12 +364,29 @@ maybe check the last part after the and again</note>
       </tuv>
     </tu>
     <tu>
+      <note>I also like alienation instead of desarraigo</note>
+      <tuv lang="es-AR">
+        <seg>La migración es otro fenómeno muy común en la historia de vida de las identidades travesti y trans, impulsada por situaciones de expulsión del hogar y de localidades en América Latina y el Caribe, lo que lleva a elegir una experiencia de desarraigo con la esperanza de vivir en condiciones de vida que respeten la identidad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T180124Z" creationid="Socorra" creationdate="20250430T180124Z">
+        <seg>Migration is another phenomenon very common in the life story of travesti and trans identities, driven by conditions of expulsion from the home and from localities in Latin America and the Caribbean, that which leads to choosing an experience of estrangement with the hope of living in living conditions that respect identity.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>went a little non-direct with this one</note>
       <tuv lang="es-AR">
         <seg>La necesidad de construir una sociedad más justa y equitativa debe de ser el compromiso fundamental para que  las personas que se encuentran en proceso de liberación puedan ser verdaderamente valoradas y respetadas.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T162520Z" creationid="Socorra" creationdate="20250430T162520Z">
         <seg>The need to construct a more justice and equitable society must be the fundamental commitment through which the people encountered in the process of liberation are able to be truly valued and respected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La situación de precarización estructural de las condiciones de vida de las personas travestis,  trans y no binarias ha sido documentada a través de distintos informes de organismos oficiales y organizaciones sociales.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T180349Z" creationid="Socorra" creationdate="20250430T180349Z">
+        <seg>The state of structural precarization of the living conditions of travesti, trans, and non-binary people has been documented through distinct reports from official bodies and social organizations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +397,42 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T155716Z" creationid="Socorra" creationdate="20250430T155532Z">
         <seg>The living situation of us in carceral contexts is often critical, where we face multiple forms of discrimination, violence, and human rights violations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La violencia estructural que genera la baja expectativa de vida de las personas travestis y trans fue conceptualizada por los movimientos como el &lt;t2/&gt;travesticidio social&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T174533Z" creationid="Socorra" creationdate="20250430T174533Z">
+        <seg>The structural violence que generates lower life expectancy of travesti and trans people was conceptualized by movements as &lt;t2/&gt;social transvesticide&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Las investigaciones disponibles al respecto, demuestran que hablamos de un colectivo particularmente afectado por distintas prácticas de violencia estatal entendidas desde un sentido amplio, es decir, teniendo en cuenta la falta de acceso a derechos económicos, sociales, culturales y derechos de reconocimiento de la identidad, detenciones arbitrarias, violencia institucional, violencia extrema como la muerte por motivo de identidad de género, que han sido denominados por la propia comunidad como &lt;t0/&gt;travesticidios y/o transfemicidios (Berkins,2013 , Radi y Sardá- Chandiraman 2016, MPD- Mocha Celis 2023).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T172347Z" creationid="Socorra" creationdate="20250430T172347Z">
+        <seg>The available research on the subject demonstrates that we speak of a group particularly affected by distinct practices of state violence understood in a broad sense, that is to say, taking into account the lack of access to economic, social, and cultural rights, and rights recognizing the identity, abritrary detentions, institutional violence, and violence extreme as gender-identity motivated killing, that have been referred to by our own community as transvesticides and transfemicides (Berkins, 2013; Radi and Sardá-Chandiraman, 2016; MPD-Mocha Celis, 2023).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>decided to translate condiciones de vida as life conditions here instead of living conditions. It could also be quality of life</note>
+      <tuv lang="es-AR">
+        <seg>Las tramas de la violencia institucional que atraviesa el colectivo trave&lt;t0/&gt;sti-trans en sus condiciones de vida, no resultan una realidad situada únicamente en Argentina.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T173359Z" creationid="Socorra" creationdate="20250430T173359Z">
+        <seg>The weaves of institutional violence that block the travesti-trans group in their life conditions do not emerge from a reality situated only in Argentina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>conducted could be carried out
+travesti-trans untranslated
+biographies could be life stories</note>
+      <tuv lang="es-AR">
+        <seg>Los informes realizados desde organizaciones civiles y los activismos trans confirman que el vínculo entre el poder punitivo y la violencia institucional forma parte de las biografías y trayectorias travesti-trans (Berkins, 2015).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T173625Z" creationid="Socorra" creationdate="20250430T170547Z">
+        <seg>The reports conducted by civil organizations and trans activitists confirm that the link between punitive power and institutional violence is part of travesti-trans biographies and trajectories (Berkins, 2015).</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +473,15 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T172002Z" creationid="poppy" creationdate="20250430T172002Z">
         <seg>For this report, we asked: why a workshop in a prison? Why orient a workshop specifically towards transvestite, trans, and non-binary people? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>might be a bit of eloquence lost here</note>
+      <tuv lang="es-AR">
+        <seg>Pero cuando se trata de nosotras, las personas trans, parece ser que somos culpables hasta tanto nosotras logremos demostrar nuestra inocencia”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T173537Z" creationid="Socorra" creationdate="20250430T170056Z">
+        <seg>But when dealing with us, trans people, it seems to be that we are guilty until we prove our innocence.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +530,23 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173009Z" creationid="poppy" creationdate="20250430T172648Z">
         <seg>We reinforced these reflections with textual citations that emerged from interviews and talks with the participants. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Según se ha podido evidenciar en tales informes, los datos recabados para la Ciudad Autónoma de Buenos Aires indican que  las mujeres trans y travestis fallecen, en promedio, a los 35-40 años producto de la violencia y exclusión social, política, económica, estructural y sistemática.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T181453Z" creationid="Socorra" creationdate="20250430T181453Z">
+        <seg>According to as has been able to be evidenced in such reports, the data collected for the City of Buenos Aires indicates que trans and travesti women die, on average, at 35-40 years old by producted of violence and social, political, economic, structural, and systematic exclusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>wondering if I should do liberty instead of freedom</note>
+      <tuv lang="es-AR">
+        <seg>Selectividad penal y condiciones de vida de las personas travestis, trans y no binarias privadas de su libertad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T165642Z" creationid="Socorra" creationdate="20250430T165642Z">
+        <seg>Penal selectivity and living conditions of travesti, trans, and non-binary people deprived of their freedom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -507,6 +612,14 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T172620Z" creationid="poppy" creationdate="20250430T172359Z">
         <seg>What connections are made?) to come to conclusions about why it is fundamental to carry out this workshop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>“&lt;t0/&gt;En nuestro país cada persona es inocente hasta que se demuestre lo contrario.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T173502Z" creationid="Socorra" creationdate="20250430T165712Z">
+        <seg>“&lt;t0/&gt;In our country each person is innocent until proven otherwise.</seg>
       </tuv>
     </tu>
     <tu>
