@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>Fortalecimiento de derechos en el proceso de liberación de las personas  travestis, trans y no binarias privadas de su libertad&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T153425Z" creationid="poppy" creationdate="20250430T153425Z">
+        <seg>Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Más allá (y más acá)</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T152854Z" creationid="Socorra" creationdate="20250429T210414Z">
