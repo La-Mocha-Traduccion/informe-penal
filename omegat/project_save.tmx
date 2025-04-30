@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Procuración Penitenciaria Nacional</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T160130Z" creationid="poppy" creationdate="20250430T160130Z">
+        <seg>Prison Ombudsman's National Office (&lt;x0&gt;Procuración Penitenciaria Nacional&lt;/x0&gt;) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Procuración Penitenciaria de la Nación</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155359Z" creationid="poppy" creationdate="20250430T155359Z">
