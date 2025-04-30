@@ -187,8 +187,8 @@ could be story or history</note>
       <tuv lang="es-AR">
         <seg>En segundo lugar, reflexionaremos sobre lo que sucede tras las rejas del encierro (¿qué lazos se rompen?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T172350Z" creationid="poppy" creationdate="20250430T172350Z">
-        <seg>Secondly, we reflect on what occurs behind the bars of the prison (what bonds are broken?  </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T172653Z" creationid="poppy" creationdate="20250430T172350Z">
+        <seg>Secondly, we reflected on what occurs behind the bars of the prison (What bonds are broken?  </seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +414,14 @@ critical could be dire</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Reforzaremos las palabras con citas textuales que surgieron de las entrevistas y las charlas con las participantes.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T172648Z" creationid="poppy" creationdate="20250430T172648Z">
+        <seg>We reinforced </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Sus funciones de control, reconocidas por la ley Nª 25.875 se han visto reforzadas desde su designación como parte integrante del Comité Nacional de Prevención de la Tortura y mecanismo local para la prevención de la tortura en el régimen penitenciario federal (arts.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161854Z" creationid="poppy" creationdate="20250430T161854Z">
@@ -445,11 +453,12 @@ critical could be dire</note>
       </tuv>
     </tu>
     <tu>
+      <note>Did not feel fluid to translate the end of this sentence</note>
       <tuv lang="es-AR">
         <seg>¿Qué vínculos se reconocen?) para llegar a las conclusiones sobre porqué es fundamental realizar este taller y qué fue lo que sucedió durante el mismo.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T172359Z" creationid="poppy" creationdate="20250430T172359Z">
-        <seg>What connections are made?) to come to conclusions about why it is fundamental to carry out this work</seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T172620Z" creationid="poppy" creationdate="20250430T172359Z">
+        <seg>What connections are made?) to come to conclusions about why it is fundamental to carry out this workshop.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
