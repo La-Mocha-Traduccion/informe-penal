@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>11, 32 y 36, Ley 26.827).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T161906Z" creationid="poppy" creationdate="20250430T161906Z">
+        <seg>11, 32, and 36, Law No. 26.827).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>A esta misión la  realiza a través del diseño, la organización y la implementación de acciones de promoción social, educativa, cultural, política, habitacional, laboral y de salud con perspectiva de género y enfoque de Derechos Humanos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161601Z" creationid="poppy" creationdate="20250430T161601Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T154454Z" creationid="poppy" creationdate="20250430T154454Z">
         <seg>This document includes testimonies and reflections which emerged from meetings held in the Penitentiary Complex IV of Ezeiza, and which reflect the positive impact of this project on the lives of its participants. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Al respecto, se destaca la existencia de un Programa dentro de la Procuración de abordaje de las necesidades específicas de las personas LGBT+ en contextos de encierro, por medio del cual se aborda, detecta y visibilizan los procesos de criminalización y la situación de encarcelamiento del colectivo LGBT+.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T162244Z" creationid="poppy" creationdate="20250430T162244Z">
+        <seg>In this regard, it is worth highlighting the existence of a program within the Prison Ombudsman's National Office that addresses the specific needs of LGBT+ people in contexts of incarceration, through which the specific criminalization and incarceration processes of the LGBT+ community are addressed, protected, and made visible.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155101Z" creationid="poppy" creationdate="20250430T155101Z">
         <seg>We would like to thank them for the work and effort that have committed to this project. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Desde el organismo realizamos un trabajo específico con las personas LGBT+ privadas de su libertad, a través de las acciones promovidas desde el Equipo de Género y Diversidad Sexual.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T162031Z" creationid="poppy" creationdate="20250430T162031Z">
+        <seg>The organization carries out specific work with LGBT+ people deprived of liberty through their Gender and Sexual Diversity Team. </seg>
       </tuv>
     </tu>
     <tu>
