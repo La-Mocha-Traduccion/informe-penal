@@ -299,6 +299,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Habiendo mencionado la selectividad del sistema penal, queremos destacar la importancia de un taller específicamente orientado a personas travestis, trans y no binarias privadas de su libertad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T173953Z" creationid="poppy" creationdate="20250430T173953Z">
+        <seg>Having mentioned the selectivity of the penal system, we want to emphasize the importance of a workshop specifically oriented towards transvestite, trans, and non-binary people deprived of liberty. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>La Mocha Celis cuenta con inserción territorial y una trayectoria socioeducativa de 9 años antes de su constitución como Asociación Civil, en el año 2020.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161139Z" creationid="poppy" creationdate="20250430T161139Z">
@@ -440,8 +448,8 @@ critical could be dire</note>
       <tuv lang="es-AR">
         <seg>Sin embargo, el tiempo transcurre y se carga sobre los cuerpos, se imprime en dinámicas y violencias cotidianas sobre quienes, como consecuencias de haber infringido (o no), alguna ley penal, la responsabilidad se vuelve castigo.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T173632Z" creationid="poppy" creationdate="20250430T173632Z">
-        <seg>However, time passes by and burdens the body, imprinting itself on the daily dynamics and violence on those who, as a consequence of having com </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T173853Z" creationid="poppy" creationdate="20250430T173632Z">
+        <seg>However, time passes by and burdens the body. It is imprinted in the daily dynamics and violence on those who, as a consequence of having infringed (or not) a criminal law, are punished. </seg>
       </tuv>
     </tu>
     <tu>
