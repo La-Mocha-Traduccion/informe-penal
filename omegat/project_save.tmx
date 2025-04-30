@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>Este trabajo da cuenta de la experiencia y el desarrollo del proyecto “Más allá de los muros: Fortalecimiento de derechos en el proceso de liberación de personas travestis, trans y no binarias privadas de su libertad”, llevada adelante por la Procuración Penitenciaria de la Nación, la Asociación Mocha Celis y la Embajada de Países Bajos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T153740Z" creationid="poppy" creationdate="20250430T153740Z">
+        <seg>This work accounts for the experience and development of the project "Beyond the walls: Strengthening of rights in the process of liberating transvestite, trans and non-binary people deprived of their liberty," carried out by the Procuración Penitenciaria Nacional (National Penitentiary Prosecutor's Office), Associación Mocha Celis and the Embassy of the Netherlands.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Fortalecimiento de derechos en el proceso de liberación de las personas  travestis, trans y no binarias privadas de su libertad&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T153425Z" creationid="poppy" creationdate="20250430T153425Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T152854Z" creationid="Socorra" creationdate="20250429T210414Z">
         <seg>DOES THIS WORK </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>PRÓLOGO</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T153511Z" creationid="poppy" creationdate="20250430T153511Z">
+        <seg>Prologue </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
