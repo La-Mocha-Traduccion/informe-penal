@@ -45,6 +45,32 @@
       </tuv>
     </tu>
     <tu>
+      <note>no clue what to do with al penal
+could be story or history</note>
+      <tuv lang="es-AR">
+        <seg>Asistir al penal como docente me hizo descubrir algo profundamente significativo, nuestras historias se encontraban entrelazadas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T160639Z" creationid="Socorra" creationdate="20250430T160639Z">
+        <seg>Attending prisons as a teacher made me discover something profoundly significant, our stories are encountered interwoven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Asociación Civil Mocha Celis</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T153910Z" creationid="Socorra" creationdate="20250430T153910Z">
+        <seg>Civil Association Mocha Celis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Con algunas de ellas, habíamos compartido otras vidas, y fue la docencia la que me permitió encontrarme con mis hermanas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T160802Z" creationid="Socorra" creationdate="20250430T160802Z">
+        <seg>With some of them, we have shared other lives, and it was the teaching that allowed me to find myself with my sisters.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>Confiamos en que esta experiencia inspire nuevas iniciativas, consolidando el compromiso de las instituciones participantes en seguir en el mantenimiento y promoción de estos espacios.</seg>
       </tuv>
@@ -94,10 +120,44 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>El proceso de liberación de mis pares no solo debe centrarse en la reintegración social, sino también en garantizar que sus derechos sean reconocidos y respetados en todas las etapas del proceso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T161132Z" creationid="Socorra" creationdate="20250430T161132Z">
+        <seg>The process of liberating my peers must not only be focused on social reintegration, but also on guaranteeing that our rights are recognized and respected at every step of the process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>El proyecto &lt;t0/&gt;“Fortalecimiento de derechos en el proceso de liberación de las personas travestis, trans y no binarias privadas de su libertad&lt;t1/&gt;” es una iniciativa de trabajo colaborativo entre la Asociación Civil Mocha Celis y la Procuración Penitenciaria de la Nación (PPN), realizada con el apoyo &lt;t2/&gt;del Fondo de Derechos Humanos de la Embajada del Reino de Países Bajos.&lt;t3/&gt; &lt;t4/&gt;El proyecto se encuentra enmarcado en los compromisos asumidos por nuestras organizaciones en la defensa, protección y promoción de los derechos de las personas travesti-trans privadas de su libertad.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T160641Z" creationid="poppy" creationdate="20250430T155850Z">
         <seg>The project  &lt;t0/&gt; "Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty&lt;t1/&gt;" is a collaborative initiative between the Mocha Celis Civil Association and the Prison Ombudsman's National Office (PPN), realized with the support of the &lt;t2/&gt; Human Rights Fund of the Kingdom of the Netherlands.&lt;t3/&gt; The project is part of our organizations' commitment to the defense, protection, and promotion of the rights of transvestite, trans, and non-binary people deprived of liberty. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"construction of collectivity" was a creative liberty
+maybe check the last part after the and again</note>
+      <tuv lang="es-AR">
+        <seg>En un mundo donde se nos invita a pensarnos individualmente, este tipo de proyectos vienen a impulsar la contrucciòn colectiva, donde se nos da la oportunidad de conversar y problematizar acerca de nuestras vidas, a encontrarnos para saber que no estamos solas, que somos un montòn que estamos exigiendo tener una vida mejor, porque otros mundos son posibles y no queda duda que nosotres los vamos a construir.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T163427Z" creationid="Socorra" creationdate="20250430T163427Z">
+        <seg>In a world where we are asked to think of ourselves individually, this type of project comes to drive the construction of collectivity, where we are given the opportunity to converse and question about our lives, to come together in knowing that we aren't alone, que we are many, that we are demanding to have a better life, because other worlds are possible, and undoubtedly we are going to build them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>En un mundo que avanza hacia poder pensar en la equidad y la necesidad de que todas las personas nos encontremos ocupando los espacios en la sociedad, es imperioso reconocer y fortalecer los derechos de las personas travestis, trans y no binarias, especialmente aquellas que han sido privadas de su libertad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T154951Z" creationid="Socorra" creationdate="20250430T154419Z">
+        <seg>In a world that advances towards being able to think about the equity and needs of all people we should encounter occupying the spaces of society, it is imperative to recognize and strengthen the rights of travesti, trans, and non-binary people, especially those que have been deprived of their freedom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Es esencial el trabajo en conjunto entre las organizaciones sociales, autoridades penitenciarias y la sociedad civil para crear un entorno donde se respete nuestra identidad de género y se garantice el acceso a servicios básicos, como son la educación y el trabajo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T161941Z" creationid="Socorra" creationdate="20250430T161941Z">
+        <seg>It is essential to work in conjuntion with social organizations, penitentiary authorities, and civil society in order to create an environment where our gender identity is respected and access to basic services is guaranteed, as are education and work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +182,22 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T160244Z" creationid="poppy" creationdate="20250430T153740Z">
         <seg>This work accounts for the experience and development of the project "Beyond the walls: Strengthening of rights in the process of liberating transvestite, trans and non-binary people deprived of their liberty," carried out by the Prison Ombudsman's National Office (&lt;x0&gt;Procuración Penitenciaria Nacional&lt;/x0&gt;), the Mocha Celis Civil Association (&lt;x0&gt;Associación Civil Mocha Celi&lt;/x0&gt;)  and the Embassy of the Netherlands.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Esto implica la necesidad de políticas públicas inclusivas que aborden las particularidades y desafíos que enfrentamos, así como la implementación de programas que promuevan nuestro bienestar físico y emocional, siempre siendo parte de esta  transformación, pensando en la necesidad de seguir construyendo el mundo en el que queremos vivir.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T161422Z" creationid="Socorra" creationdate="20250430T161422Z">
+        <seg>This implicated the need for inclusive public policies that address the particularities and challenges we face, just as the implementation of programs that promote our physical and emotional well-being, always being part of this transformation, thinking about the need to continue constructing the world in which we want to live.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Fortalecer los derechos de las personas travestis, trans y no binarias en este contexto es un acto fundamental hacia la justicia social y la equidad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T161605Z" creationid="Socorra" creationdate="20250430T161549Z">
+        <seg>Strengthening the rights of travesti, trans, and non-binary people in this context is an fundamental act towards social justice and equity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173,6 +249,25 @@
       </tuv>
     </tu>
     <tu>
+      <note>went a little non-direct with this one</note>
+      <tuv lang="es-AR">
+        <seg>La necesidad de construir una sociedad más justa y equitativa debe de ser el compromiso fundamental para que  las personas que se encuentran en proceso de liberación puedan ser verdaderamente valoradas y respetadas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T162520Z" creationid="Socorra" creationdate="20250430T162520Z">
+        <seg>The need to construct a more justice and equitable society must be the fundamental commitment through which the people encountered in the process of liberation are able to be truly valued and respected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>could be our living situation
+critical could be dire</note>
+      <tuv lang="es-AR">
+        <seg>La situación de vida de nosotras en contextos carcelarios es a menudo crítica, donde nos enfrentamos a múltiples formas de discriminación, violencia y vulneraciones a los derechos humanos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T155716Z" creationid="Socorra" creationdate="20250430T155532Z">
+        <seg>The living situation of us in carceral contexts is often critical, where we face multiple forms of discrimination, violence, and human rights violations.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>Más allá (y más acá)</seg>
       </tuv>
@@ -190,10 +285,18 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Nuestras vidas siguen conectadas, seguimos forjando lazos de solidaridad y resistencia, y esto fue lo que me dio un empujòn màs para seguir luchando por nuestros derechos</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T160949Z" creationid="Socorra" creationdate="20250430T160949Z">
+        <seg>Our lives are continually connected, we continue forging bonds of solidarity and resistance, and this was what gave me the impetus to continue fighting for our rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>PRÓLOGO</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T153511Z" creationid="poppy" creationdate="20250430T153511Z">
-        <seg>Prologue </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T153846Z" creationid="Socorra" creationdate="20250430T153846Z">
+        <seg>PROLOGUE</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +305,14 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155147Z" creationid="poppy" creationdate="20250430T155147Z">
         <seg>But overall we would like to thank the transvestite and trans people who were part of this project for their trust and engagement with the space.Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Presidenta Asociación Civil Mocha Celis</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T163544Z" creationid="Socorra" creationdate="20250430T163544Z">
+        <seg>President of the Civil Association Mocha Celis</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +345,14 @@
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161854Z" creationid="poppy" creationdate="20250430T161854Z">
         <seg>Its supervisory functions, recognized by Law No. 25.875 have been strengthened since its designation as an integral part of the National Committee for the Prevention of Torture and the local mechanism for the prevention of torture in the federal prison system. (Articles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Trabajar desde este enfoque, con el horizonte puesto en la inclusión, nos permitirá hablar de una verdadera oportunidad de crecimiento para nuestra comunidad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250430T162215Z" creationid="Socorra" creationdate="20250430T162215Z">
+        <seg>Working from this focus, with the outlook placed on inclusion, will allow us to talk about a true opportunity of growth for our community.</seg>
       </tuv>
     </tu>
     <tu>
