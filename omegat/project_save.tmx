@@ -176,6 +176,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>En primer lugar, compartiremos algunas consideraciones  sobre la selectividad penal que existe sobre las personas travestis, trans y no binarias, recuperando los saberes de las organizaciones y los datos disponibles sobre las experiencias de encarcelamiento.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T172213Z" creationid="poppy" creationdate="20250430T172036Z">
+        <seg>First, we share some considerations about the selective criminalization of transvestite, trans, and non-binary people, compiling available data and knoweldge about the incarcerated experience. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"construction of collectivity" was a creative liberty
 maybe check the last part after the and again</note>
       <tuv lang="es-AR">
@@ -418,6 +426,14 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T160319Z" creationid="poppy" creationdate="20250430T154339Z">
         <seg>It is for this reason that the Prison Ombudsman's National Office reinforces our commitment to continue betting on initiatives that bring tools to minimize the impact of the prison system on the collective. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>¿Qué sucedió durante el encuentro?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T172007Z" creationid="poppy" creationdate="20250430T172007Z">
+        <seg>What happened during the meeting?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
