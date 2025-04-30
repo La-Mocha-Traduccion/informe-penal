@@ -123,8 +123,8 @@ could be story or history</note>
       <tuv lang="es-AR">
         <seg>El objetivo general del proyecto &lt;t0/&gt;buscó brindar &lt;t1/&gt;herramientas laborales que permitan a &lt;t2/&gt;personas travestis, trans y no binarias que se encuentran privadas de su libertad &lt;t3/&gt;detectar sus deseos y c&lt;t4/&gt;onocer sus derechos y obligaciones en el marco de los derechos socio laborales en el proceso de recuperación de la libertad; así como también consolidar herramientas y aptitudes para el desarrollo grupal e individual.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T165945Z" creationid="poppy" creationdate="20250430T165945Z">
-        <seg>The general objective of the project &lt;t0/&gt; was to provide tools to permit &lt;t2/&gt; transvestite, trans, and non-binary people deprived of  liberty &lt;t3/&gt; to understand their wishes and &lt;t4/&gt; understand their social and labor rights in the process of recuperating their liberty;  and to consolidate tools and knowledge for group and individual development. </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T170008Z" creationid="poppy" creationdate="20250430T165945Z">
+        <seg>The general objective of the project &lt;t0/&gt; was to provide tools to permit &lt;t2/&gt; transvestite, trans, and non-binary people deprived of  liberty &lt;t3/&gt; to articulate their wishes and &lt;t4/&gt; understand their social and labor rights in the process of recuperating their liberty, and to consolidate tools and knowledge for group and individual development. </seg>
       </tuv>
     </tu>
     <tu>
@@ -199,6 +199,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T154711Z" creationid="poppy" creationdate="20250430T154510Z">
         <seg>This effort is the result of an inter-institutional collaboration that, through its different experiences, confirms that international technical cooperation contribute to a society that needs fairer and more inclusive spaces.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Este proyecto se encuentra enmarcado en la necesidad de promover acciones de promoción de derechos y acceso a la información a la comunidad de personas travestis, trans y no binarias que atraviesan el contexto de encierro,  como la Ley de Identidad de Género (26.7443) y la Ley de Promoción del Acceso al Empleo Formal para Personas Travestis, Transexuales “Diana Sacayan- Lohana Berkins” (Ley 27.636).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250430T170356Z" creationid="poppy" creationdate="20250430T170356Z">
+        <seg>This project is framed by the need to promote incarcerated transvestite, trans, and non-binary communities, such  </seg>
       </tuv>
     </tu>
     <tu>
