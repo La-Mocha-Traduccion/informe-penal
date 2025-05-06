@@ -306,6 +306,14 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Ella compartió su situación con toda la clase y contó que luego de un tiempo de sentirse perdida después de la salida, encontró un espacio que la pudo acompañar y hacer sentir que ella puede construir otros mundos: se acercó a la Mocha, terminó la secundaria, está trabajando y abordando las diferentes problemáticas que la siguen acompañando.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T173344Z" creationid="poppy" creationdate="20250506T173344Z">
+        <seg>She shared her situation with the class and said that, after a period of feeling when she was released, she encountered a space that could accompany her and make her feel like she could build other worlds: she found Mocha and finished school, and is now working and addressing the problems that continue to follow her. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>En cada encuentro promovimos contar con la asistencia de docentes  con personas travestis, trans y no binarias, con un doble propósito: por un lado, que quienes participan conozcan la diversidad de experiencias y trayectorias de vida posibles, fuera de los estereotipos de género impuestos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T162452Z" creationid="poppy" creationdate="20250506T162204Z">
@@ -442,6 +450,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160530Z" creationid="poppy" creationdate="20250506T160530Z">
         <seg>That is why it is essential to carry out these spaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Esa primera clase fue eso lo que tratamos de transmitir: nadie se salva solx, y es fundamental construir las redes con las que podamos compartir las alegrías y los momentos más difíciles.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T173551Z" creationid="poppy" creationdate="20250506T173551Z">
+        <seg>This is what we tried to convey with this first class: no one is saved alone, and it is fundamental to construct networks with which we can share our joy and our hardest moments. </seg>
       </tuv>
     </tu>
     <tu>
@@ -764,6 +780,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155613Z" creationid="poppy" creationdate="20250430T155613Z">
         <seg>Beyond (and __) the walls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>No hay camino lineal, comparte siempre Sofía, pero es fundamental transitarlo en compañía.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T173419Z" creationid="poppy" creationdate="20250506T173419Z">
+        <seg>It is not a linear path, Sofía always told us, but it is fundamental to walk it in company. </seg>
       </tuv>
     </tu>
     <tu>
