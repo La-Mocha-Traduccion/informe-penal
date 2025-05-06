@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>A cada encuentro llevamos un desayuno para compartir, dándonos un rato para disfrutar la comida y la charla.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T161433Z" creationid="poppy" creationdate="20250506T161433Z">
+        <seg>At each meeting we brought breakfast to share, giving us time to enjoy some food and conversation. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>A esta misión la  realiza a través del diseño, la organización y la implementación de acciones de promoción social, educativa, cultural, política, habitacional, laboral y de salud con perspectiva de género y enfoque de Derechos Humanos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161601Z" creationid="poppy" creationdate="20250430T161601Z">
@@ -159,11 +167,12 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <note>Clunky, fix later</note>
       <tuv lang="es-AR">
         <seg>Durante el taller se llevaron a cabo actividades que permitieron trabajar sobre la idea de proyecto de vida, el tipo de  “afuera” al que se desea ir, y la construcción  de herramientas para hacer de esos deseos una realidad.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250506T161302Z" creationid="poppy" creationdate="20250506T161302Z">
-        <seg>Activities were carried out during the workshop that permitted them to work on the idea of a 'life project,' imagine the type of "outside" towards which one wishes to work, and developing the tools to make these wishes a reality.  </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T161358Z" creationid="poppy" creationdate="20250506T161302Z">
+        <seg>During the workshop, they did activities that encouraged them to work on the idea of a 'life project,' imagine the type of "outside" towards which one wishes to work, and develop the tools to make these wishes a reality.  </seg>
       </tuv>
     </tu>
     <tu>
