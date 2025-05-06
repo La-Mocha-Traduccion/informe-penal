@@ -258,6 +258,14 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>El taller</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172001Z" creationid="poppy" creationdate="20250506T172001Z">
+        <seg>The workshops</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>En cada encuentro promovimos contar con la asistencia de docentes  con personas travestis, trans y no binarias, con un doble propósito: por un lado, que quienes participan conozcan la diversidad de experiencias y trayectorias de vida posibles, fuera de los estereotipos de género impuestos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T162452Z" creationid="poppy" creationdate="20250506T162204Z">
