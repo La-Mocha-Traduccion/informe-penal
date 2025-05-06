@@ -228,8 +228,8 @@ could be story or history</note>
       <tuv lang="es-AR">
         <seg>En cada encuentro promovimos contar con la asistencia de docentes  con personas travestis, trans y no binarias, con un doble propósito: por un lado, que quienes participan conozcan la diversidad de experiencias y trayectorias de vida posibles, fuera de los estereotipos de género impuestos.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250506T162417Z" creationid="poppy" creationdate="20250506T162204Z">
-        <seg>In each meeting, we promoted the attendance of  transvestite, trans and non-binary teachers with a double purpose: on the one hand, because those who participated knew the diversity of experiences and possible life trajectories of their community, from a point of view outside of imposed gender stereotypes. Thus, the attendance of these teachers allowed attendees to meet peers who were in a similar situation at one time but currently live in a different present, opening and bringing closer the possibility of imagining other realities.  </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T162452Z" creationid="poppy" creationdate="20250506T162204Z">
+        <seg>In each meeting, we promoted the attendance of  transvestite, trans and non-binary teachers with a double purpose: on the one hand, because those who participated knew the diversity of experiences and possible life trajectories of their community, from a point of view outside of imposed gender stereotypes. </seg>
       </tuv>
     </tu>
     <tu>
@@ -663,6 +663,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Por otro lado, convocamos a personas TTNB como una forma de seguir generando trabajo, algo crucial en un contexto tan adverso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T162648Z" creationid="poppy" creationdate="20250506T162648Z">
+        <seg>On the other hand, we met with TTNB people as way to generate work, which was crucial in such an adverse context. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Presidenta Asociación Civil Mocha Celis</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T163544Z" creationid="Socorra" creationdate="20250430T163544Z">
@@ -773,6 +781,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173516Z" creationid="poppy" creationdate="20250430T173516Z">
         <seg>Various participants mentioned that they perceived time in prison as  &lt;t2/&gt;outside of time, a time that didn't exist&lt;t3/&gt;or a &lt;t4/&gt;tomb&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Y así, poder encontrarse con pares que estuvieron en una situación similar y hoy viven un presente distinto, abriendo y acercando la  posibilidad de imaginar otras realidades.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T162448Z" creationid="poppy" creationdate="20250506T162448Z">
+        <seg>Thus, the attendance of these teachers allowed attendees to meet peers who were in a similar situation at one time but currently live in a different present, opening and bringing closer the possibility of imagining other realities.  </seg>
       </tuv>
     </tu>
     <tu>
