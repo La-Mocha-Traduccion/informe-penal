@@ -354,6 +354,15 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <note>Unsure if / how I need to translate curriculum vitae.</note>
+      <tuv lang="es-AR">
+        <seg>En el &lt;t0/&gt;tercer encuentro&lt;t1/&gt; llevamos adelante la aproximación al armado de curriculum vitae.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T190638Z" creationid="poppy" creationdate="20250506T190523Z">
+        <seg>In the &lt;t0/&gt;third encounter&lt;t1/&gt;, we began to prepare our résumés. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>maybe such as would be better</note>
       <tuv lang="es-AR">
         <seg>En el caso de Argentina, las situaciones de estigma, discriminación y violencias estructurales se presentan desde etapas tempranas de la vida, comenzando con la expulsión de los hogares y siguiendo con la falta de acceso a derechos humanos básicos como la salud, la educación, la vivienda o el trabajo.</seg>
@@ -895,6 +904,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T185907Z" creationid="poppy" creationdate="20250506T185907Z">
         <seg>To do so, we worked with the life timelines of Lohana Berkins and Diana Sacayan, two historical figures of the trans and transvestite movement in Argentina, Latin America, and the world of human rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Para muchas, es la primera vez que realizan un currículum, que se encuentran ante la escena de que es posible hacerlo, que tiene una funcionalidad hacerlo, que tiene un para qué.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T190743Z" creationid="poppy" creationdate="20250506T190607Z">
+        <seg>For many, it was the first time they had made a résumé or found themselves in a situation that made it possible to understand its functionality or purpose. </seg>
       </tuv>
     </tu>
     <tu>
