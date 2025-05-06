@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>- Mi superpoder es poder elegir.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172639Z" creationid="poppy" creationdate="20250506T172639Z">
+        <seg>"My superpower is to be able to choose. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>- “¿Si tuvieras que elegir un poder cuál sería?</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T172627Z" creationid="poppy" creationdate="20250506T172627Z">
@@ -78,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>A su vez, poner de manifiesto el pronombre con el que nos autopercibimos habilita a que las personas se animen a hacerse preguntas sobre su identidad de género y reconocer que es un espacio seguro para compartir las preguntas que se tengan al respecto.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172911Z" creationid="poppy" creationdate="20250506T172911Z">
+        <seg>In turn, stating preferred pronouns enables people to ask themselves questions about their gender identity and recognize that they are in a safe space to share any questions they have about it. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Además, dos de las facilitadoras del taller habían estado privadas de su libertad en el penal de Ezeiza años atrás.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T171056Z" creationid="poppy" creationdate="20250506T171056Z">
@@ -124,6 +140,14 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160156Z" creationid="poppy" creationdate="20250506T160156Z">
         <seg>As such, state violence exacerbates the pennitentiary system, where it perpetuates oppression and dehumanization, converting punishment into the only response.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Como dinámica para romper el hielo nos presentamos diciendo nuestro nombre, cómo nos gusta que nos digan, el pronombre (ella/elle/él) y qué superpoder nos gustaría tener.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172744Z" creationid="poppy" creationdate="20250506T172744Z">
+        <seg>In order to break the ice, we introduced ourselves by saying our names, what we would like to be called, our pronouns, and what superpower we would like to have. </seg>
       </tuv>
     </tu>
     <tu>
@@ -560,6 +584,22 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Invisible ya fui mucho tiempo"</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172643Z" creationid="poppy" creationdate="20250506T172643Z">
+        <seg>I was invisible for a long time."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Invocar lo fantasioso nos permite exponernos sin abrirnos tanto.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172802Z" creationid="poppy" creationdate="20250506T172802Z">
+        <seg>Invoking the fantastic permitted us to expose ourselves without opening up too much.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>La Mocha Celis cuenta con inserción territorial y una trayectoria socioeducativa de 9 años antes de su constitución como Asociación Civil, en el año 2020.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161139Z" creationid="poppy" creationdate="20250430T161139Z">
@@ -648,6 +688,14 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T174533Z" creationid="Socorra" creationdate="20250430T174533Z">
         <seg>The structural violence que generates lower life expectancy of travesti and trans people was conceptualized by movements as &lt;t2/&gt;social transvesticide&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La&lt;t0/&gt; primera clase fue muy movilizante, porque una de las docentes ingresaba al penal luego de siete años.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T173000Z" creationid="poppy" creationdate="20250506T173000Z">
+        <seg>The first class was very moving, because one of the teachers entered the prison for the first time after seven years. </seg>
       </tuv>
     </tu>
     <tu>
