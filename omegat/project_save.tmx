@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es-AR">
+        <seg>- “¿Si tuvieras que elegir un poder cuál sería?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172627Z" creationid="poppy" creationdate="20250506T172627Z">
+        <seg>"If you had to choose a superpower, what would it be?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>11, 32 y 36, Ley 26.827).</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161906Z" creationid="poppy" creationdate="20250430T161906Z">
@@ -533,6 +541,14 @@ maybe check the last part after the and again</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>Interrumpir el tiempo para dar espacio a cosas nuevas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172559Z" creationid="poppy" creationdate="20250506T172559Z">
+        <seg>Interrupting time to make space for new things</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Could be Inquiries
 Con Nombre Propio doesn't translate well, went direct but revise</note>
       <tuv lang="es-AR">
@@ -720,6 +736,15 @@ biographies could be life stories</note>
       </tuv>
     </tu>
     <tu>
+      <note>Want to say "social survival" but wouldn't be direct</note>
+      <tuv lang="es-AR">
+        <seg>Pautar esa norma de convivencia, también tiene algo de interrumpir el código cotidiano, el humor y la burla son mecanismos fundamentales para la supervivencia travesti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172451Z" creationid="poppy" creationdate="20250506T172451Z">
+        <seg>Setting this norm of coexistence had a way of interrupting the daily social codes of the participants, as humor and mockery are fundamental mechanisms for transvestite survival. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>might be a bit of eloquence lost here</note>
       <tuv lang="es-AR">
         <seg>Pero cuando se trata de nosotras, las personas trans, parece ser que somos culpables hasta tanto nosotras logremos demostrar nuestra inocencia”</seg>
@@ -833,6 +858,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173853Z" creationid="poppy" creationdate="20250430T173632Z">
         <seg>However, time passes by and burdens the body. It is imprinted in the daily dynamics and violence on those who, as a consequence of having infringed (or not) a criminal law, are punished. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Sin embargo, era necesario y fundamental para que puedan emerger las vulnerabilidades y no hablar desde la supuesta fortaleza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T172550Z" creationid="poppy" creationdate="20250506T172550Z">
+        <seg>However, it was fundamental to let vulnerabilities emerge rather than speaking from supposed 'strength'.</seg>
       </tuv>
     </tu>
     <tu>
