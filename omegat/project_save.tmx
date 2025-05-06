@@ -135,6 +135,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>El Estado aparece acá, en su dimensión punitiva, cuando no lo hizo en la función social de la protección y promoción de los derechos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T155922Z" creationid="poppy" creationdate="20250506T155922Z">
+        <seg>The State appears here, in the punitive space, despite the fact that it did do so in the social function of the protection and promotion of rights. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé como tradducir "socio-laboral" – laboral does not have direct translation</note>
       <tuv lang="es-AR">
         <seg>El objetivo general del proyecto &lt;t0/&gt;buscó brindar &lt;t1/&gt;herramientas laborales que permitan a &lt;t2/&gt;personas travestis, trans y no binarias que se encuentran privadas de su libertad &lt;t3/&gt;detectar sus deseos y c&lt;t4/&gt;onocer sus derechos y obligaciones en el marco de los derechos socio laborales en el proceso de recuperación de la libertad; así como también consolidar herramientas y aptitudes para el desarrollo grupal e individual.</seg>
@@ -257,6 +265,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T162532Z" creationid="poppy" creationdate="20250430T162532Z">
         <seg>This alliance also took as a goal the strengthening of collaborative work between the State and civil society. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Estas afirmaciones, entonces, vuelven urgente la necesidad de reconocer que la población abandonada, marginada -expulsada a los márgenes-, es la habita el sistema penitenciario.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T155537Z" creationid="poppy" creationdate="20250506T155537Z">
+        <seg>These statements make clear the need to recognize that abandoned, marginalized populations are the ones who inhabit the prison system. </seg>
       </tuv>
     </tu>
     <tu>
