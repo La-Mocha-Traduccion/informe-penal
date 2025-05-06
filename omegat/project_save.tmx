@@ -706,6 +706,15 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
       </tuv>
     </tu>
     <tu>
+      <note>cacerolazos is "pot-banging" but i'm not sure this will transalte well outside of ARgentina.</note>
+      <tuv lang="es-AR">
+        <seg>La propuesta consiste en vincular momentos de la trayectoria vital de cada referenta con episodios sociales relevantes; algunos les resultaron cercanos, otros no tanto, algunos las atravesaron, como los cacerolazos de 2001, y otros las tuvieron como protagonistas, como la sanción de la Ley de Identidad de Género.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T190134Z" creationid="poppy" creationdate="20250506T190134Z">
+        <seg>The project consisted of linking moments in the life trajectory of each figure with relevant social episodes. Some of these were close to them, others not so much; some had gone through, like the crisis of 2001, and others they were protagonists of,  like the passage of the Law of Gender Identity. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>La situación de precarización estructural de las condiciones de vida de las personas travestis,  trans y no binarias ha sido documentada a través de distintos informes de organismos oficiales y organizaciones sociales.</seg>
       </tuv>
@@ -773,6 +782,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T173625Z" creationid="Socorra" creationdate="20250430T170547Z">
         <seg>The reports conducted by civil organizations and trans activitists confirm that the link between punitive power and institutional violence is part of travesti-trans biographies and trajectories (Berkins, 2015).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Luego, cada participante pudo hacer este ejercicio con su propia trayectoria, identificando seis momentos significativos en sus vidas y el contexto en que sucedieron.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T190159Z" creationid="poppy" creationdate="20250506T190159Z">
+        <seg>Later, each participant could do this exercise with their own life trajectory, indentifying six significant moments in their life and the context in which is occurred.</seg>
       </tuv>
     </tu>
     <tu>
