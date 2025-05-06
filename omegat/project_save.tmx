@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>A 10 años de la Ley de Identidad de Género &lt;t1/&gt;(2023), realizada en conjunto por la Mocha Celis y el Ministerio Público de la Defensa de CABA, ponen de manifiesto que a pesar de los logros conseguidos, el acceso a los derechos sigue siendo una materia pendiente, sobre todo en lo que respecta a trabajo y vivienda.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250506T161033Z" creationid="Socorra" creationdate="20250506T160045Z">
+        <seg>10 Years of the Law of Gender Identity &lt;t1/&gt;(2023), conducted jointly by Mocha Celis and the Public Ministry of Defense of the City of Buenos Aires, brought to light that despite the achieved benefits, access to rights continues to be a pending matter, especially en respect to work and housing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>A cada encuentro llevamos un desayuno para compartir, dándonos un rato para disfrutar la comida y la charla.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T161433Z" creationid="poppy" creationdate="20250506T161433Z">
@@ -230,6 +238,14 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T162452Z" creationid="poppy" creationdate="20250506T162204Z">
         <seg>In each meeting, we promoted the attendance of  transvestite, trans and non-binary teachers with a double purpose: on the one hand, because those who participated knew the diversity of experiences and possible life trajectories of their community, from a point of view outside of imposed gender stereotypes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>En cuanto al acceso a la educación puede identificarse una considerable mejora respecto a la comparación desde antes de la sanción de la Ley de Identidad de Género: en el año 2005 sólo el 10,4% de las travestis y trans se encontraban estudiando, mientras que en el 2022, año en el que se llevó adelante la investigación, ese porcentaje se incrementó al 47,1%.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250506T162305Z" creationid="Socorra" creationdate="20250506T162216Z">
+        <seg>Regarding access to education it is able to identify a considerable improvement with respect to the comparison since before the ratification of the Law of Gender Identity; in 2005 only 10.4% of travestis and transgenders were found to be studying, meanwhile in 2022, the year in which the inquiry was undertaken, that percentage increased to 47.1%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +485,16 @@ maybe check the last part after the and again</note>
       </tuv>
     </tu>
     <tu>
+      <note>Could be Inquiries
+Con Nombre Propio doesn't translate well, went direct but revise</note>
+      <tuv lang="es-AR">
+        <seg>Investigaciones como &lt;t0/&gt;Con Nombre Propio.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250506T162229Z" creationid="Socorra" creationdate="20250506T155120Z">
+        <seg>Inquiries like &lt;t0/&gt;With Own Name.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>La Mocha Celis cuenta con inserción territorial y una trayectoria socioeducativa de 9 años antes de su constitución como Asociación Civil, en el año 2020.</seg>
       </tuv>
@@ -629,6 +655,15 @@ biographies could be life stories</note>
       </tuv>
     </tu>
     <tu>
+      <note>best translation for recuperamos might be recycle but that has a bad connotation in english so I changed it</note>
+      <tuv lang="es-AR">
+        <seg>Para ejemplificar esta afirmación, recuperamos algunos de los datos allí consignados.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250506T161337Z" creationid="Socorra" creationdate="20250506T161337Z">
+        <seg>To illustrate this assertion, we reproduced some of the data recorded there.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>Para ello, nos preguntamos ¿por qué un taller en un penal?, ¿Por qué orientarlo específicamente hacia personas travestis, trans y no binarias?</seg>
       </tuv>
@@ -719,11 +754,12 @@ biographies could be life stories</note>
       </tuv>
     </tu>
     <tu>
+      <note>by product could be as a result of</note>
       <tuv lang="es-AR">
         <seg>Según se ha podido evidenciar en tales informes, los datos recabados para la Ciudad Autónoma de Buenos Aires indican que  las mujeres trans y travestis fallecen, en promedio, a los 35-40 años producto de la violencia y exclusión social, política, económica, estructural y sistemática.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Socorra" changedate="20250430T181453Z" creationid="Socorra" creationdate="20250430T181453Z">
-        <seg>According to as has been able to be evidenced in such reports, the data collected for the City of Buenos Aires indicates que trans and travesti women die, on average, at 35-40 years old by producted of violence and social, political, economic, structural, and systematic exclusion.</seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250506T154848Z" creationid="Socorra" creationdate="20250430T181453Z">
+        <seg>According to as has been able to be evidenced in such reports, the data collected for the City of Buenos Aires indicates that trans and travesti women die, on average, at 35-40 years old by product of violence and social, political, economic, structural, and systematic exclusion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -733,6 +769,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T165642Z" creationid="Socorra" creationdate="20250430T165642Z">
         <seg>Penal selectivity and living conditions of travesti, trans, and non-binary people deprived of their freedom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Sin dudas que la propia existencia de espacios como la Mocha Celis colaboran a la accesibilidad a la educación.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250506T162723Z" creationid="Socorra" creationdate="20250506T162723Z">
+        <seg>Without a doubt the very existence of spaces like Mocha Celis contribute to the accessibility of education.</seg>
       </tuv>
     </tu>
     <tu>
