@@ -225,6 +225,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>En cada encuentro promovimos contar con la asistencia de docentes  con personas travestis, trans y no binarias, con un doble propósito: por un lado, que quienes participan conozcan la diversidad de experiencias y trayectorias de vida posibles, fuera de los estereotipos de género impuestos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250506T162417Z" creationid="poppy" creationdate="20250506T162204Z">
+        <seg>In each meeting, we promoted the attendance of  transvestite, trans and non-binary teachers with a double purpose: on the one hand, because those who participated knew the diversity of experiences and possible life trajectories of their community, from a point of view outside of imposed gender stereotypes. Thus, the attendance of these teachers allowed attendees to meet peers who were in a similar situation at one time but currently live in a different present, opening and bringing closer the possibility of imagining other realities.  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>maybe such as would be better</note>
       <tuv lang="es-AR">
         <seg>En el caso de Argentina, las situaciones de estigma, discriminación y violencias estructurales se presentan desde etapas tempranas de la vida, comenzando con la expulsión de los hogares y siguiendo con la falta de acceso a derechos humanos básicos como la salud, la educación, la vivienda o el trabajo.</seg>
