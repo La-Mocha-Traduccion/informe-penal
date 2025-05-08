@@ -803,6 +803,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Este artículo es fundamental para diversas poblaciones que la ley no alcanza a cubrir, por diferentes razones: menores de 13 o 16 años, según qué artículo de la ley se contemple, o a personas migrantes que no tienen aún la residencia permanente y en sus países de origen no existe ley de identidad de género.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T154748Z" creationid="poppy" creationdate="20250508T154733Z">
+        <seg>This article is fundamental for the diverse populations that the law could not cover for various reasons: minors between 13 and 16 years of age, migrants who do not yet have permanent residence and whose countries of origin do not have similar laws,  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Este encuentro fue fundamental para historizar la propia experiencia vital y reconocernos como sujetxs que pueden motorizar cambios sociales para mejorar las condiciones de nuestras existencias.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T190441Z" creationid="poppy" creationdate="20250506T190441Z">
@@ -1301,6 +1309,15 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T154554Z" creationid="poppy" creationdate="20250508T154323Z">
         <seg>Article 11 mandates the inclusion of bodily transition in the Obligatory Medical Plan. Article 12 calls for "Dignified Treatment," which requires that one must respect another's preferred name and gender regardless of whether or not it has been changed in official documentation.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Unsure for realizar in this context</note>
+      <tuv lang="es-AR">
+        <seg>O para aquellas personas que por alguna razón no lo quieren realizar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T154815Z" creationid="poppy" creationdate="20250508T154815Z">
+        <seg>or for those people who do not want to [REALIZAR]. </seg>
       </tuv>
     </tu>
     <tu>
