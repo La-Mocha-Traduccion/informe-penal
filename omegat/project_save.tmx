@@ -322,6 +322,14 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Ejemplo: ir a buscar a una infancia a la escuela, cortar el pasto, limpiar, cocinar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142743Z" creationid="poppy" creationdate="20250508T142743Z">
+        <seg>For example: pick up a child at school, cut the grass, clean, cook. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>El &lt;t0/&gt;quinto encuentro&lt;t1/&gt; estuvo marcado por algo que surgió de la emergencia del taller.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T134549Z" creationid="poppy" creationdate="20250508T134549Z">
@@ -446,8 +454,8 @@ could be story or history</note>
       <tuv lang="es-AR">
         <seg>En el &lt;t0/&gt;sexto encuentro&lt;t1/&gt; quisimos conversar específicamente sobre la diferencia entre trabajo y empleo y entre trabajo registrado y no registrado, para así llegar a la construcción de la definición de las tareas de cuidado.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250508T142419Z" creationid="poppy" creationdate="20250508T142309Z">
-        <seg>In the &lt;t0/&gt;sexto encuentro&lt;t1/&gt;we wanted to speak specifically about the difference between work and employment, registered and non-registered work, in order to construct a definition of "care tasks."</seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142509Z" creationid="poppy" creationdate="20250508T142309Z">
+        <seg>In the &lt;t0/&gt;sixth meeting&lt;t1/&gt;we wanted to speak specifically about the difference between work and employment, registered and non-registered work, in order to construct a definition of "care tasks."</seg>
       </tuv>
     </tu>
     <tu>
@@ -633,6 +641,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Esta actividad tenía como objetivo fomentar la identificación y discusión de los diferentes tipos de trabajo; y como resultado se evidenció una comprensión diversa sobre lo que constituye un trabajo, así como la percepción de su valor económico y social.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142727Z" creationid="poppy" creationdate="20250508T142727Z">
+        <seg>The objective of this activity was to encourage the identification and discussion of different kinds of work and, as a result, developed a diverse understanding of what constitutes work and its social and economic value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Esta alianza también tuvo como fin fortalecer el trabajo conjunto entre el Estado y la sociedad civil.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T162532Z" creationid="poppy" creationdate="20250430T162532Z">
@@ -773,6 +789,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T133932Z" creationid="poppy" creationdate="20250508T133932Z">
         <seg>This allows us to infer that the participants did not–or could not–see themselves in this role, since they have had no representation of TTNB people occupying that role. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Esto permitió poner de manifiesto que las mismas tareas pueden darse en un contexto de una relación laboral o no.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142830Z" creationid="poppy" creationdate="20250508T142830Z">
+        <seg>This allowed us to highlight that the same task could be considered inside and outside the context of "labor." </seg>
       </tuv>
     </tu>
     <tu>
@@ -934,8 +958,8 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
       <tuv lang="es-AR">
         <seg>La dinámica que se llevó a cabo fue que las personas participantes tuvieran sacar de una bolsa con papelitos diferentes tipos de trabajo, tanto remunerados como no remunerados.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250508T142501Z" creationid="poppy" creationdate="20250508T142501Z">
-        <seg>The activity </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142543Z" creationid="poppy" creationdate="20250508T142501Z">
+        <seg>The participants were asked to pull papers out of a bag that were labelled with different kinds of work, some paid and unpaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1070,14 @@ critical could be dire</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T173359Z" creationid="Socorra" creationdate="20250430T173359Z">
         <seg>The weaves of institutional violence that block the travesti-trans group in their life conditions do not emerge from a reality situated only in Argentina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Les asistentes debían clasificar estos trabajos en afiches correspondientes, lo que permitió una reflexión activa sobre las distintas formas de trabajo que existen en la sociedad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142621Z" creationid="poppy" creationdate="20250508T142621Z">
+        <seg>The attendees had to classify these jobs in corresponding posters, which permitted them to actively reflect on the distinct kinds of work that exist in our society.</seg>
       </tuv>
     </tu>
     <tu>
