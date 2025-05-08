@@ -706,6 +706,14 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>La &lt;t0/&gt;cuarta clase&lt;t1/&gt; fue más teatral: juegos de roles, representar escenas de entrevistas laborales, cómo lidiar con las frustraciones en el camino de la búsqueda de trabajo y la espera.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T133622Z" creationid="poppy" creationdate="20250508T133622Z">
+        <seg>The &lt;t0/&gt;fourth class&lt;t1/&gt; was more theatrical: role-playing, acting out job interview scenes, and learning how to deal with frustrations on the path of the job search. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>La Mocha Celis cuenta con inserción territorial y una trayectoria socioeducativa de 9 años antes de su constitución como Asociación Civil, en el año 2020.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161139Z" creationid="poppy" creationdate="20250430T161139Z">
@@ -899,6 +907,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Nunca había hecho uno.”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T133415Z" creationid="poppy" creationdate="20250508T133415Z">
+        <seg>I had never made one."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>PRÓLOGO</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T153846Z" creationid="Socorra" creationdate="20250430T153846Z">
@@ -928,6 +944,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T185907Z" creationid="poppy" creationdate="20250506T185907Z">
         <seg>To do so, we worked with the life timelines of Lohana Berkins and Diana Sacayan, two historical figures of the trans and transvestite movement in Argentina, Latin America, and the world of human rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Para eso, trabajamos sobre un juego de roles donde se llevaron adelante entrevistas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T133652Z" creationid="poppy" creationdate="20250508T133652Z">
+        <seg>For this, we worked on a role play where we carried out fake interviews. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1247,6 +1271,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173201Z" creationid="poppy" creationdate="20250430T173201Z">
         <seg>"The workshop was a bridge that allowed us to think of the outside."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>“Me llevo de este taller haber hecho un curriculum.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T133411Z" creationid="poppy" creationdate="20250508T133402Z">
+        <seg>"I left this workshop having made a CV. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
