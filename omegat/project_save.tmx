@@ -528,6 +528,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Es decir, un dominó que contiene en su pieza, como todos los dominós, dos índices.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T141125Z" creationid="poppy" creationdate="20250508T140929Z">
+        <seg>Every domino piece has two ends. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Es esencial el trabajo en conjunto entre las organizaciones sociales, autoridades penitenciarias y la sociedad civil para crear un entorno donde se respete nuestra identidad de género y se garantice el acceso a servicios básicos, como son la educación y el trabajo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T161941Z" creationid="Socorra" creationdate="20250430T161941Z">
@@ -829,8 +837,8 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
       <tuv lang="es-AR">
         <seg>La dinámica propuesta, consistió en jugar un “&lt;t0/&gt;dominó de las emociones&lt;t1/&gt;”.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250508T140921Z" creationid="poppy" creationdate="20250508T140921Z">
-        <seg>The proposed activity consisted of a game called "emotion dominos."</seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T140942Z" creationid="poppy" creationdate="20250508T140921Z">
+        <seg>The proposed activity was a game called "emotion dominos."</seg>
       </tuv>
     </tu>
     <tu>
