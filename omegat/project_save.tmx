@@ -760,6 +760,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Esto puede suceder en el trabajo, como en el pabellón.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142053Z" creationid="poppy" creationdate="20250508T142053Z">
+        <seg>This can happen as much at work as it does in the ward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Esto, como veremos más adelante, luego lo vinculamos con el encuentro donde se profundiza sobre las diversas experiencias de trabajo remunerado y no remunerado a partir de la conceptualización de la economía feminista.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T191425Z" creationid="poppy" creationdate="20250506T191425Z">
@@ -1553,6 +1561,15 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160952Z" creationid="poppy" creationdate="20250506T160952Z">
         <seg>"I connected with my companions. Whenever they came, a space to share was made."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>I don't understand this</note>
+      <tuv lang="es-AR">
+        <seg>“&lt;t0/&gt;Yo me quedo con la familia que se armó.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142228Z" creationid="poppy" creationdate="20250508T142228Z">
+        <seg>&lt;t0/&gt; "I stay with the family I was put with. </seg>
       </tuv>
     </tu>
     <tu>
