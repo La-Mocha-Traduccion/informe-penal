@@ -289,6 +289,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>El mundo del trabajo formal ha sido históricamente inaccesible para las personas travestis, trans y no binaria&lt;t2/&gt;s&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T134100Z" creationid="poppy" creationdate="20250508T134100Z">
+        <seg>The world of formal work has been historically inaccessible for transvestite, trans, and non-binary people.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé como tradducir "socio-laboral" – laboral does not have direct translation</note>
       <tuv lang="es-AR">
         <seg>El objetivo general del proyecto &lt;t0/&gt;buscó brindar &lt;t1/&gt;herramientas laborales que permitan a &lt;t2/&gt;personas travestis, trans y no binarias que se encuentran privadas de su libertad &lt;t3/&gt;detectar sus deseos y c&lt;t4/&gt;onocer sus derechos y obligaciones en el marco de los derechos socio laborales en el proceso de recuperación de la libertad; así como también consolidar herramientas y aptitudes para el desarrollo grupal e individual.</seg>
@@ -687,6 +695,15 @@ maybe check the last part after the and again</note>
       </tuv>
     </tu>
     <tu>
+      <note>Unsure what Hacer cuerpo means</note>
+      <tuv lang="es-AR">
+        <seg>Hacer cuerpo la escena de poder llegar a estar en una entrevista.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T134424Z" creationid="poppy" creationdate="20250508T134424Z">
+        <seg>This gave form to a scene in which the participants would be able to get an interview. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>Interrumpir el tiempo para dar espacio a cosas nuevas.</seg>
       </tuv>
@@ -911,6 +928,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T173419Z" creationid="poppy" creationdate="20250506T173419Z">
         <seg>It is not a linear path, Sofía always told us, but it is fundamental to walk it in company. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>No obstante los primeros obstáculos, una de las docentes ocupó el rol y desde allí pudieron llevarse a cabo los juegos de roles, que habilitaron la emergencia de nervios, fantasías, frustraciones, risas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T134142Z" creationid="poppy" creationdate="20250508T134142Z">
+        <seg>Despite these initial obstacles, one of the teachers occupied the role of the interviewer. From there, the role plays could be carried out, enabling the emergance of nerves, fantasies, frustrations, and laughter.</seg>
       </tuv>
     </tu>
     <tu>
