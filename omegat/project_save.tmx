@@ -157,6 +157,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>no sé que significa monotributista</note>
+      <tuv lang="es-AR">
+        <seg>Allí conversamos sobre las diferentes formas que puede adquirir un trabajo remunerado (registrado o no, en relación de dependencia, autónomo, monotributista, cooperativo).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T152129Z" creationid="poppy" creationdate="20250508T152129Z">
+        <seg>We spoke about the different forms of aquiring paid work (registered, unregistered, autonomous, [monotributista], cooperative). </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>Ambos cuentos forman parte de la publicación “Relatos Federales de Cuidados”&lt;t4/&gt;.</seg>
       </tuv>
@@ -480,6 +489,14 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T142509Z" creationid="poppy" creationdate="20250508T142309Z">
         <seg>In the &lt;t0/&gt;sixth meeting&lt;t1/&gt;we wanted to speak specifically about the difference between work and employment, registered and non-registered work, in order to construct a definition of "care tasks."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>En el &lt;t0/&gt;séptimo encuentro&lt;t1/&gt; conversamos sobre los derechos laborales y el reconocimiento de los diversos momentos históricos donde se instituyeron.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T151721Z" creationid="poppy" creationdate="20250508T151721Z">
+        <seg>In the &lt;t0/&gt; seventh meeting&lt;t1/&gt; we spoke about labor rights and the diverse historical moments in which they were won. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1385,6 +1402,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Por un ratito me sentía libre.”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T151636Z" creationid="poppy" creationdate="20250508T151636Z">
+        <seg>For a moment, I felt free."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Presidenta Asociación Civil Mocha Celis</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T163544Z" creationid="Socorra" creationdate="20250430T163544Z">
@@ -1665,6 +1690,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T134523Z" creationid="poppy" creationdate="20250508T134523Z">
         <seg>"Since I started the workshop I was able to go out more, to go out to the workshop, but also to work."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>“&lt;t0/&gt;Durante los encuentros me sentí respetada y me sentí parte de un grupo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T151633Z" creationid="poppy" creationdate="20250508T151633Z">
+        <seg>"During these meetings I fel respected and like I was part of a group.</seg>
       </tuv>
     </tu>
     <tu>
