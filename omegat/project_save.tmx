@@ -1295,6 +1295,15 @@ biographies could be life stories</note>
       </tuv>
     </tu>
     <tu>
+      <note>Obligatory Medical Plan? Check?</note>
+      <tuv lang="es-AR">
+        <seg>O el artículo 11, que establece la inclusión en el Plan Médico Obligatorio de los procesos de transición corporal, o el artículo 12 que establece el Trato Digno, donde se afirma que a pesar de no tener el cambio registral en el documento, tiene que respetarse el nombre y el género que la persona manifiesta&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T154323Z" creationid="poppy" creationdate="20250508T154323Z">
+        <seg>Or article 11, which established the inclusion of bodily transition in the Obligatory Medical Plan,   </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>O, al menos, intentarlo.</seg>
       </tuv>
