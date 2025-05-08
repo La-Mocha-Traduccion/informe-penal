@@ -161,8 +161,8 @@
       <tuv lang="es-AR">
         <seg>Allí conversamos sobre las diferentes formas que puede adquirir un trabajo remunerado (registrado o no, en relación de dependencia, autónomo, monotributista, cooperativo).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250508T152129Z" creationid="poppy" creationdate="20250508T152129Z">
-        <seg>We spoke about the different forms of aquiring paid work (registered, unregistered, autonomous, [monotributista], cooperative). </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T152327Z" creationid="poppy" creationdate="20250508T152129Z">
+        <seg>We spoke about the different forms of aquiring paid work (registered, unregistered, permanent employment, autonomous, [monotributista], cooperative). </seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +302,14 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155101Z" creationid="poppy" creationdate="20250430T155101Z">
         <seg>We would like to thank them for the work and effort that have committed to this project. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Cómo generar empleos de forma cooperativa y cómo reconocer la cantidad de trabajo que no está reconocido como tal y se apela a que se sostenga sólo por amor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T152449Z" creationid="poppy" creationdate="20250508T152449Z">
+        <seg>and how to secure work cooperatively and recognize the amount of work that goes unnoticed and is sustained only out of love. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1553,6 +1561,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161854Z" creationid="poppy" creationdate="20250430T161854Z">
         <seg>Its supervisory functions, recognized by Law No. 25.875 have been strengthened since its designation as an integral part of the National Committee for the Prevention of Torture and the local mechanism for the prevention of torture in the federal prison system. (Articles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>También trabajamos sobre cómo tratar de generar aportes sociales (jubilación u obra social) incluso cuando no se tiene un trabajo en relación de dependencia.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T152341Z" creationid="poppy" creationdate="20250508T152320Z">
+        <seg>We also spoke about how to receive social security support (retirement or social work), including when you do not have permanent employment, </seg>
       </tuv>
     </tu>
     <tu>
