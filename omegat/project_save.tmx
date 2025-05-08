@@ -491,6 +491,15 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <note>Figure out englsih name</note>
+      <tuv lang="es-AR">
+        <seg>En el &lt;t0/&gt;octavo encuentro&lt;t1/&gt; se trabajó sobre la Ley de Identidad de Género (LIG), sancionada en el año 2012 en Argentina, y la ley de Cupo laboral Travesti y Trans Lohana Berkins y Diana Sacayán, sancionada en el año 2021.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T153104Z" creationid="poppy" creationdate="20250508T153104Z">
+        <seg>In the &lt;t0/&gt;eighth meeting&lt;t1/&gt;, we focused on the Law of Gender Identity (LGI) and the "Lohana Berkins and Diana Sacayán" Transvestite and Trans Labor Quota Law, passed in 2012 and 2021 respectively. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>unsure if "care tasks" is correct</note>
       <tuv lang="es-AR">
         <seg>En el &lt;t0/&gt;sexto encuentro&lt;t1/&gt; quisimos conversar específicamente sobre la diferencia entre trabajo y empleo y entre trabajo registrado y no registrado, para así llegar a la construcción de la definición de las tareas de cuidado.</seg>
