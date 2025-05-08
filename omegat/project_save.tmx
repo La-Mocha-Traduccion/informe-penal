@@ -190,6 +190,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>Asimismo, tampoco había tanta claridad sobre los derechos que prescriben y la especificidad instrumental de sus artículos: por ejemplo, la importancia del artículo 2 de la LIG para excluir al poder judicial de decidir quiénes pueden tener documentos acordes a un género u otro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T153717Z" creationid="poppy" creationdate="20250508T153717Z">
+        <seg>Likewise, they had not learned this! </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no clue what to do with al penal
 could be story or history</note>
       <tuv lang="es-AR">
@@ -645,8 +653,8 @@ maybe check the last part after the and again</note>
       <tuv lang="es-AR">
         <seg>Es decir, son leyes que inscribieron a las personas travestis y trans en la gramática estatal desde un lugar de sujetas de derechos, donde -además, en el caso de la ley de cupo laboral- se reconocen las heridas históricas infringidas a la población.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250508T153521Z" creationid="poppy" creationdate="20250508T153259Z">
-        <seg>meaning that these laws inscribed transvestite and trans people into the state grammar as subjects of rights, recognizing the historical wounds that had plagued the population in tunr. </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T153525Z" creationid="poppy" creationdate="20250508T153259Z">
+        <seg>meaning that these laws inscribed transvestite and trans people into the state grammar as subjects of rights, recognizing the historical wounds that had plagued the population in turn. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1074,14 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160346Z" creationid="poppy" creationdate="20250506T160346Z">
         <seg>This lack of care networks manifests itself in the absence of key figures such as the mother, sister, or aunt, who tradicionally take on care tasks, which are often feminized. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La gran mayoría de las participantes conocían sobre la ley de identidad de género, pero no el proceso político de su gesta, las estrategias para conseguirla.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T153610Z" creationid="poppy" creationdate="20250508T153610Z">
+        <seg>The grand majority of the participants knew of the Law of Gender Identity, but not the political process of its achievement or the strategies through which it was gained. </seg>
       </tuv>
     </tu>
     <tu>
