@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Ahora nos llamamos, porque estamos en distintos pabellones entonces casi no nos vemos.”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142303Z" creationid="poppy" creationdate="20250508T142303Z">
+        <seg>Now we call eachother. Because we are in different different pavillions we hardly see eachother."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Al respecto, se destaca la existencia de un Programa dentro de la Procuración de abordaje de las necesidades específicas de las personas LGBT+ en contextos de encierro, por medio del cual se aborda, detecta y visibilizan los procesos de criminalización y la situación de encarcelamiento del colectivo LGBT+.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T162244Z" creationid="poppy" creationdate="20250430T162244Z">
@@ -431,6 +439,15 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250506T162305Z" creationid="Socorra" creationdate="20250506T162216Z">
         <seg>Regarding access to education it is able to identify a considerable improvement with respect to the comparison since before the ratification of the Law of Gender Identity; in 2005 only 10.4% of travestis and transgenders were found to be studying, meanwhile in 2022, the year in which the inquiry was undertaken, that percentage increased to 47.1%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>unsure if "care tasks" is correct</note>
+      <tuv lang="es-AR">
+        <seg>En el &lt;t0/&gt;sexto encuentro&lt;t1/&gt; quisimos conversar específicamente sobre la diferencia entre trabajo y empleo y entre trabajo registrado y no registrado, para así llegar a la construcción de la definición de las tareas de cuidado.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142419Z" creationid="poppy" creationdate="20250508T142309Z">
+        <seg>In the &lt;t0/&gt;sexto encuentro&lt;t1/&gt;we wanted to speak specifically about the difference between work and employment, registered and non-registered work, in order to construct a definition of "care tasks."</seg>
       </tuv>
     </tu>
     <tu>
@@ -911,6 +928,14 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T140942Z" creationid="poppy" creationdate="20250508T140921Z">
         <seg>The proposed activity was a game called "emotion dominos."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La dinámica que se llevó a cabo fue que las personas participantes tuvieran sacar de una bolsa con papelitos diferentes tipos de trabajo, tanto remunerados como no remunerados.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250508T142501Z" creationid="poppy" creationdate="20250508T142501Z">
+        <seg>The activity </seg>
       </tuv>
     </tu>
     <tu>
