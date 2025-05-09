@@ -523,8 +523,8 @@ review de forma diferencial</note>
       <tuv lang="es-AR">
         <seg>El &lt;t0/&gt;encuentro número once&lt;t1/&gt;, con la misma lógica que la invitación a las compañeras de la Cooperativa Nadia Echazú, se extendió la invitación a la organización Yo No Fui.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Socorra" changedate="20250509T161514Z" creationid="Socorra" creationdate="20250509T160837Z">
-        <seg>The &lt;t0/&gt;11th meeting&lt;t1/&gt;, with the same logic as the invitation to the members of the Nadia Echazú Cooperative, extended the invitation to the organization It Wasn't Me.</seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T164518Z" creationid="Socorra" creationdate="20250509T160837Z">
+        <seg>The &lt;t0/&gt;eleventh meeting&lt;t1/&gt;, with the same logic as the invitation to the members of the Nadia Echazú Cooperative, extended the invitation to the organization It Wasn't Me.</seg>
       </tuv>
     </tu>
     <tu>
@@ -701,8 +701,8 @@ review de forma diferencial</note>
       <tuv lang="es-AR">
         <seg>En el &lt;t0/&gt;décimo encuentro&lt;t1/&gt; &lt;t2/&gt;se llevó adelante la finalización del armado de los currículum vitae.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Socorra" changedate="20250509T160019Z" creationid="Socorra" creationdate="20250509T160019Z">
-        <seg>In the &lt;t0/&gt;10th meeting&lt;t1/&gt; &lt;t2/&gt;we moved forward with the finalization of putting together the curriculum vitae.</seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T164505Z" creationid="Socorra" creationdate="20250509T160019Z">
+        <seg>In the &lt;t0/&gt;tenth meeting&lt;t1/&gt; &lt;t2/&gt;we moved forward with the finalization of putting together the curriculum vitae.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1893,6 +1893,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T151636Z" creationid="poppy" creationdate="20250508T151636Z">
         <seg>For a moment, I felt free."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Por último se llevó a cabo un último &lt;t0/&gt;encuentro, &lt;t1/&gt;número doce&lt;t2/&gt; que, a modo de cierre, buscó combinar un proceso de síntesis y recorrido de lo transcurrido a lo largo de los meses de mayo, junio, julio, agosto, septiembre y octubre, y un espacio de ocio y recreación donde se disfrute y se baile.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T164554Z" creationid="Socorra" creationdate="20250509T164501Z">
+        <seg>Lastly, a final &lt;t0/&gt;meeting, &lt;t1/&gt;the twelfth&lt;t2/&gt;, was carried out, </seg>
       </tuv>
     </tu>
     <tu>
