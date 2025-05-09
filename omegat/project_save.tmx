@@ -386,6 +386,15 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <note>look closely on the second pass</note>
+      <tuv lang="es-AR">
+        <seg>Conocer su experiencia, las formas organizativas, los recursos que supo construir y que pone a disposición, es clave para aminorar la sensación de soledad que se tiene adentro, pero también que se tiene cuando se vuelve inminente la posibilidad del afuera.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T162834Z" creationid="Socorra" creationdate="20250509T162834Z">
+        <seg>Knowing their experience, the organizational forms, the resources that they knew to construct and made available, it is key to reduce the feeling of loneliness that people have on the inside, as well as that they have when the possibility of the outside becomes imminent.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>el proyecto?</note>
       <tuv lang="es-AR">
         <seg>Conversamos sobre los desafíos del afuera para cada quien, sabiendo que una vez que se sale, son muchas las dimensiones sobre las que nos tenemos que ocupar: el trabajo, la vivienda, el proyecto, con quiénes, a dónde ir, y un gran y amplio costoso etcétera.</seg>
@@ -512,6 +521,14 @@ review de forma diferencial</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>El &lt;t0/&gt;encuentro número once&lt;t1/&gt;, con la misma lógica que la invitación a las compañeras de la Cooperativa Nadia Echazú, se extendió la invitación a la organización Yo No Fui.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T161514Z" creationid="Socorra" creationdate="20250509T160837Z">
+        <seg>The &lt;t0/&gt;11th meeting&lt;t1/&gt;, with the same logic as the invitation to the members of the Nadia Echazú Cooperative, extended the invitation to the organization It Wasn't Me.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>El &lt;t0/&gt;quinto encuentro&lt;t1/&gt; estuvo marcado por algo que surgió de la emergencia del taller.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T134549Z" creationid="poppy" creationdate="20250508T134549Z">
@@ -625,6 +642,14 @@ review de forma diferencial</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Ella, oriunda de Salta, inició su militancia en Córdoba y luego llegó a Buenos Aires, para hacer redes militantes junto a activistas como Lohana Berkins y Marlene Wayar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T154950Z" creationid="Socorra" creationdate="20250509T154950Z">
+        <seg>She, native to Salta, began her activism in Cordoba and later reached Buenos Aires, to build activist networks together with activists lik Lohana Berkins an Marlene Wayar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>En cada encuentro promovimos contar con la asistencia de docentes  con personas travestis, trans y no binarias, con un doble propósito: por un lado, que quienes participan conozcan la diversidad de experiencias y trayectorias de vida posibles, fuera de los estereotipos de género impuestos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T162452Z" creationid="poppy" creationdate="20250506T162204Z">
@@ -669,6 +694,15 @@ review de forma diferencial</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250508T163146Z" creationid="Socorra" creationdate="20250508T162635Z">
         <seg>In said investigation, it was corroborated that in the face of the lack of state presencia, there are civil organizations of which accompany the process of liberation of persons that leave penitentiary centers, facilitating access to education, labor, healthcare, and housing spaces, among others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>BIG swing here. Changed to we bc writing the sentence the other would around would have been super twisty turny and hard to read</note>
+      <tuv lang="es-AR">
+        <seg>En el &lt;t0/&gt;décimo encuentro&lt;t1/&gt; &lt;t2/&gt;se llevó adelante la finalización del armado de los currículum vitae.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T160019Z" creationid="Socorra" creationdate="20250509T160019Z">
+        <seg>In the &lt;t0/&gt;10th meeting&lt;t1/&gt; &lt;t2/&gt;we moved forward with the finalization of putting together the curriculum vitae.</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1020,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Esta organización es histórica en el acompañamiento a personas liberadas y privadas de su libertad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T161645Z" creationid="Socorra" creationdate="20250509T161645Z">
+        <seg>This organization is historic in the accompaniment of liberated and liberty-deprived persons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Estar ansiosa con cantar, etcétera.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T141247Z" creationid="poppy" creationdate="20250508T141247Z">
@@ -1292,11 +1334,12 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
       </tuv>
     </tu>
     <tu>
+      <note>members might be better than companions. As Jo observed, compañeras is hard to translate</note>
       <tuv lang="es-AR">
         <seg>La Nadia Echazú compartió su experiencia de fundación, junto a Lohana Berkins, y el desafío de generar el empleo de forma horizontal y cooperativa: la organización, las responsabilidades, el desafío de generar ingresos suficientes para todes les que participan, la gestión de las diferencias y los conflictos, etc. Asimismo, se repuso la historia de Nadia Echazú y algunas de las compañeras que formaron parte del taller compartieron la experiencia de haberla conocido.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Socorra" changedate="20250509T151224Z" creationid="Socorra" creationdate="20250509T151224Z">
-        <seg>The Nadia Echazú shared their experience </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T154452Z" creationid="Socorra" creationdate="20250509T151224Z">
+        <seg>The Nadia Echazú shared their establishment experience, along with Lohana Berkins, and the challenge of generating horizontal and cooperative employmente; the organization, the responsibilities, the challenge of generating sufficient incomes for everyone that participates, the management of differences and conflicts, etc. Likewise, they recounted the story of Nadia Echazú and some of the companions that were part of the workshop shared the experience of having known her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1557,6 +1600,15 @@ biographies could be life stories</note>
       </tuv>
     </tu>
     <tu>
+      <note>trans rights or travesti trans rights might work better for english readers</note>
+      <tuv lang="es-AR">
+        <seg>Nadia fue una militante por los derechos de las personas travestis y trans en los años noventa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T154602Z" creationid="Socorra" creationdate="20250509T154602Z">
+        <seg>Nadia was an activist for the rights of travesti and trans persons in the 90s.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>No hay camino lineal, comparte siempre Sofía, pero es fundamental transitarlo en compañía.</seg>
       </tuv>
@@ -1748,6 +1800,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Por eso, conocer esos espacios, esas redes, es fundamental para que otro futuro sea posible.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T163929Z" creationid="Socorra" creationdate="20250509T163929Z">
+        <seg>Therefore, knowing those spaces, those networks, is essential for another future to be possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Por eso, hacer red, desarrollar una comunidad que haga existente la conexión entre el adentro y el afuera, es imperioso.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160811Z" creationid="poppy" creationdate="20250506T160811Z">
@@ -1894,6 +1954,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Recuperar la historia de las diversas militantes formó parte también de los objetivos de los encuentros, porque en esas historias singulares se recuperan las estrategias para conseguir los avances colectivos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T155548Z" creationid="Socorra" creationdate="20250509T155548Z">
+        <seg>Recovering the history of various activists was also part of the goals of the meetings, because in those unique stories the strategies to achieve collective advances are recovered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Reforzaremos las palabras con citas textuales que surgieron de las entrevistas y las charlas con las participantes.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173009Z" creationid="poppy" creationdate="20250430T172648Z">
@@ -1932,6 +2000,15 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T165642Z" creationid="Socorra" creationdate="20250430T165642Z">
         <seg>Penal selectivity and living conditions of travesti, trans, and non-binary people deprived of their freedom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>added one bc I think it was implicit in está</note>
+      <tuv lang="es-AR">
+        <seg>Siempre trabajando con la idea de que el CV es una foto de un momento concreto, pero que siempre está abierto, que está en proceso, que puede orientarse según a dónde se quiera ir.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T160841Z" creationid="Socorra" creationdate="20250509T160728Z">
+        <seg>Always working with the idea that the CV is a photo of particular moment, but one that is always open, which is in process, that is able to orient one according to where they want to go.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2028,6 +2105,15 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160122Z" creationid="poppy" creationdate="20250506T160122Z">
         <seg>Once on those margins, the State stigmazies and condemns them, applying punishment without offering alternatives or solutions. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>am I right in saying he here?</note>
+      <tuv lang="es-AR">
+        <seg>Uno de los participantes mencionó que tenía altos niveles de reincidencia por delitos muy menores, porque cada vez que salía, luego de un tiempo no tenía dónde ir, con quién estar, reincidía para volver a entrar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T163807Z" creationid="Socorra" creationdate="20250509T162936Z">
+        <seg>One of the participants mencioned that he had high levels of recidivism for very minor offenses, because each time that he left, after a time he wouldn have nowhere to go, no one to be with, he would reoffend to re-enter.</seg>
       </tuv>
     </tu>
     <tu>
