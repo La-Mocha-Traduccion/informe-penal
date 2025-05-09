@@ -347,6 +347,22 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Cada uno de los encuentros, a su vez, en términos generales, siempre pretendió compartir un momento de comida y disfrute.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T185454Z" creationid="Socorra" creationdate="20250509T185454Z">
+        <seg>Each one of the meetings, in turn, in general terms, always wanted to share a moment of food and enjoyment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Comer rico.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T190351Z" creationid="Socorra" creationdate="20250509T190351Z">
+        <seg>Eating well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Como dice Vir Cano (2018), &lt;t0/&gt;Nadie viene sin un mundo&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T190306Z" creationid="poppy" creationdate="20250506T190306Z">
@@ -519,6 +535,14 @@ review de forma diferencial</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>Disfrutar la comida.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T190357Z" creationid="Socorra" creationdate="20250509T190357Z">
+        <seg>Enjoying the food.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Clunky, fix later</note>
       <tuv lang="es-AR">
         <seg>Durante el taller se llevaron a cabo actividades que permitieron trabajar sobre la idea de proyecto de vida, el tipo de  “afuera” al que se desea ir, y la construcción  de herramientas para hacer de esos deseos una realidad.</seg>
@@ -565,6 +589,15 @@ review de forma diferencial</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T155922Z" creationid="poppy" creationdate="20250506T155922Z">
         <seg>The State appears here, in the punitive space, despite the fact that it did do so in the social function of the protection and promotion of rights. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>permanencia can be translated other ways but I don't think any work well</note>
+      <tuv lang="es-AR">
+        <seg>El acceso y la permanencia por parte de organizaciones de la sociedad civil en estos lugares permiten proponer actividades que no solo ofrecen herramientas prácticas para la reintegración, sino que también generan un impacto emocional y personal en quienes participan.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T183803Z" creationid="Socorra" creationdate="20250509T183803Z">
+        <seg>The access and presence on the part of civil society organizations in these places allows them to put forward activities that not only offer practical tools for reintegration, but also that generate a personal and emotional impact on those participating.</seg>
       </tuv>
     </tu>
     <tu>
@@ -909,6 +942,22 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Era lindo cada miércoles que venían.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T182516Z" creationid="Socorra" creationdate="20250509T182516Z">
+        <seg>It was wonderful each Wednesday that they came.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Era nuestra salida del pabellón</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T183000Z" creationid="Socorra" creationdate="20250509T183000Z">
+        <seg>It was our escape from the wing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Es clave para poder generar un afuera en el adentro penitenciario.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T160648Z" creationid="poppy" creationdate="20250506T160603Z">
@@ -985,6 +1034,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250509T180343Z" creationid="Socorra" creationdate="20250509T175738Z">
         <seg>That commitment was able to be seen represented in a document, with the appropriate name of each one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Ese momento del desayuno, inaugura cada encuentro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T190431Z" creationid="Socorra" creationdate="20250509T190431Z">
+        <seg>That moment of breakfast, it began each meeting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1109,6 +1166,14 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Este ciclo de encuentros en el penal, reafirma la importancia de abrir espacios dentro de las instituciones penitenciarias.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T184501Z" creationid="Socorra" creationdate="20250509T183243Z">
+        <seg>This series of meetings in the prison, it reaffirms the importance of setting up spaces inside of penitentiary institutions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Este encuentro fue fundamental para historizar la propia experiencia vital y reconocernos como sujetxs que pueden motorizar cambios sociales para mejorar las condiciones de nuestras existencias.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T190441Z" creationid="poppy" creationdate="20250506T190441Z">
@@ -1137,6 +1202,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T170508Z" creationid="poppy" creationdate="20250430T170356Z">
         <seg>This project is framed by the need to promote incarcerated transvestite, trans, and non-binary people's access to information about their rights, such as the Gender Identity Law (26.7443) and the Law for the Promotion of Access to Formal Employment for Transvestite and Transgender People "Diana Sacayan–Lohana Berkins" (Ley 27.636).  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Este taller encuentra su fundamento no sólo en los contenidos, sino en el tiempo-espacio &lt;t0/&gt;que pudo posibilitar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T184242Z" creationid="Socorra" creationdate="20250509T184242Z">
+        <seg>This workshop finds its foundation not only in the contents, but also in the spacetime &lt;t0/&gt;that it was able to make possible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1449,6 +1522,30 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>La importancia de entrar en las cárceles.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T182259Z" creationid="Socorra" creationdate="20250509T182259Z">
+        <seg>The Importance of Penetrating the Prisons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La importancia de ir a los talleres se consolidó encuentro a encuentro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T185210Z" creationid="Socorra" creationdate="20250509T185210Z">
+        <seg>The importance of going to the workshops grew stronger meeting to meeting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La importancia de salir del pabellón.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T182058Z" creationid="Socorra" creationdate="20250509T182058Z">
+        <seg>The Importance of Leaving the Wing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>La iniciativa nació del compromiso por construir puentes entre instituciones, organizaciones de la sociedad civil y la comunidad internacional para promover los derechos humanos de manera integral y transversal.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T153916Z" creationid="poppy" creationdate="20250430T153916Z">
@@ -1575,6 +1672,14 @@ critical could be dire</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Los cambios objetivos, requieren movimientos subjetivos (aunque éstos no son suficientes, sí son necesarios).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T184448Z" creationid="Socorra" creationdate="20250509T184448Z">
+        <seg>The objective changes, they require subjective movements (even though those are not sufficient, they are necessary).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Los datos presentados hasta aquí permiten verificar la profunda vulnerabilidad, en términos interseccionales, que atraviesa este grupo encarcelado.&lt;t0/&gt; Asimismo, se destaca que en el ámbito penitenciario, las experiencias de violencia estructural se replican y exacerban.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250506T184356Z" creationid="Socorra" creationdate="20250506T183412Z">
@@ -1634,14 +1739,6 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
-        <seg>Más allá (y más acá)</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T152854Z" creationid="Socorra" creationdate="20250429T210414Z">
-        <seg>DOES THIS WORK </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es-AR">
         <seg>Más allá (y más acá) de los muros</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155613Z" creationid="poppy" creationdate="20250430T155613Z">
@@ -1688,6 +1785,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T134041Z" creationid="poppy" creationdate="20250508T134041Z">
         <seg>Not having previous representation made it POSSIBLE? IMPOSSIBLE? to theatricize it. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Nos preparábamos: la ropa, el maquillaje, nos juntábamos a desayunar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T182706Z" creationid="Socorra" creationdate="20250509T182706Z">
+        <seg>We got ourselves ready: the clothes, the makeup, getting together to have breakfast.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1805,6 +1910,15 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T190743Z" creationid="poppy" creationdate="20250506T190607Z">
         <seg>For many, it was the first time they had made a résumé or found themselves in a situation that made it possible to understand its functionality or purpose. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>should I be translating this as spacetime? Maybe going super direct, time-space, is better. Spacetime is just confusing</note>
+      <tuv lang="es-AR">
+        <seg>Para poder habilitar movimientos subjetivos es necesario tener un tiempo-espacio seguro, habilitante y eso fue lo que quisimos compartir.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T185030Z" creationid="Socorra" creationdate="20250509T185030Z">
+        <seg>In order to able to empower subjective movements it is necessary to have a safe, empowering spacetime, a d that was what we wanted to share.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2020,6 +2134,15 @@ biographies could be life stories</note>
       </tuv>
     </tu>
     <tu>
+      <note>I had trouble with this sentence</note>
+      <tuv lang="es-AR">
+        <seg>Que pueda detener también el tiempo de los problemas y el hambre: café, té, medialunas, madalenas, sanguchitos, cereales.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T190330Z" creationid="Socorra" creationdate="20250509T190330Z">
+        <seg>Being able to also stave off the time of troubles and hunger: coffee, tea, croissants, madeleines, sandwiches, cereals.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acompañar --&gt; accompanying to accompaniment, as this is the more theoretically popular way to say this in the literature. </note>
       <tuv lang="es-AR">
         <seg>Reconocer la importancia de acompañar no solo emocional, sino también materialmente, es fundamental en estos contextos.</seg>
@@ -2203,6 +2326,14 @@ using a lot here bc much doesn't work as a translation</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Tener comida.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T190359Z" creationid="Socorra" creationdate="20250509T190359Z">
+        <seg>Having food.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Trabajar desde este enfoque, con el horizonte puesto en la inclusión, nos permitirá hablar de una verdadera oportunidad de crecimiento para nuestra comunidad.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T162215Z" creationid="Socorra" creationdate="20250430T162215Z">
@@ -2256,6 +2387,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T162448Z" creationid="poppy" creationdate="20250506T162448Z">
         <seg>Thus, the attendance of these teachers allowed attendees to meet peers who were in a similar situation at one time but currently live in a different present, opening and bringing closer the possibility of imagining other realities.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Y compartirla.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T190403Z" creationid="Socorra" creationdate="20250509T190403Z">
+        <seg>And sharing it.</seg>
       </tuv>
     </tu>
     <tu>
