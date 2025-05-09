@@ -672,6 +672,15 @@ review de forma diferencial</note>
       </tuv>
     </tu>
     <tu>
+      <note>not sure if we should translate encuentro as meeting, I kinda like encounter more, but we should think abt that on the second pass</note>
+      <tuv lang="es-AR">
+        <seg>En el &lt;t0/&gt;noveno encuentro&lt;t1/&gt; quisimos escuchar sobre otras experiencias organizativas que nuclean a personas travestis, trans y no binarias, más allá de la Mocha Celis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250508T170227Z" creationid="Socorra" creationdate="20250508T170227Z">
+        <seg>In the &lt;t0/&gt;ninth meeting&lt;t1/&gt; we wanted to hear about other organizational experiences that unite travesti, trans, and non-binary persons, beyond Mocha Celis.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Figure out englsih name</note>
       <tuv lang="es-AR">
         <seg>En el &lt;t0/&gt;octavo encuentro&lt;t1/&gt; se trabajó sobre la Ley de Identidad de Género (LIG), sancionada en el año 2012 en Argentina, y la ley de Cupo laboral Travesti y Trans Lohana Berkins y Diana Sacayán, sancionada en el año 2021.</seg>
@@ -1244,6 +1253,14 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Invitamos como docentes a la Cooperativa Nadia Echazú.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250508T170603Z" creationid="Socorra" creationdate="20250508T170603Z">
+        <seg>We invited the Nadia Echazú Cooperative as teachers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Invocar lo fantasioso nos permite exponernos sin abrirnos tanto.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T172802Z" creationid="poppy" creationdate="20250506T172802Z">
@@ -1260,10 +1277,26 @@ Con Nombre Propio doesn't translate well, went direct but revise</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>La Cooperativa Nadia Echazú, ubicada en el partido de Avellaneda, Provincia de Buenos Aires, es la primera cooperativa textil travesti trans.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250508T171049Z" creationid="Socorra" creationdate="20250508T171049Z">
+        <seg>The Nadia Echazú Cooperative, located in the district of Avellaneda, Province of Buenos Aires, is the first travesti trans textile cooperative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>La Mocha Celis cuenta con inserción territorial y una trayectoria socioeducativa de 9 años antes de su constitución como Asociación Civil, en el año 2020.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T161139Z" creationid="poppy" creationdate="20250430T161139Z">
         <seg>Mocha Celis began its socio-educational trajectory nine years prior to its constitution as a Civil Associación in 2020.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>La Nadia Echazú compartió su experiencia de fundación, junto a Lohana Berkins, y el desafío de generar el empleo de forma horizontal y cooperativa: la organización, las responsabilidades, el desafío de generar ingresos suficientes para todes les que participan, la gestión de las diferencias y los conflictos, etc. Asimismo, se repuso la historia de Nadia Echazú y algunas de las compañeras que formaron parte del taller compartieron la experiencia de haberla conocido.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250509T151224Z" creationid="Socorra" creationdate="20250509T151224Z">
+        <seg>The Nadia Echazú shared their experience </seg>
       </tuv>
     </tu>
     <tu>
@@ -1513,6 +1546,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155613Z" creationid="poppy" creationdate="20250430T155613Z">
         <seg>Beyond (and __) the walls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Nació en el año 2008 y fue impulsada por el sueño de la activista Lohana Berkins con el fin de brindar contención, capacitación laboral y un trabajo digno a las personas TTNB que históricamente fueron expulsadas de la sociedad en general y del acceso al trabajo formal, en particular.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250508T172224Z" creationid="Socorra" creationdate="20250508T172224Z">
+        <seg>Born in 2008 and inspired by the dream of the activitist Lohana Berkins with the end of providing stability, labor training, and a dignified job to TTNB persons that were historically expelled from society in general and from access to formal work, in particular.</seg>
       </tuv>
     </tu>
     <tu>
