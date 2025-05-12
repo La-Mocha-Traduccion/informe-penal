@@ -230,6 +230,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>Alejandra Rodríguez</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131352Z" creationid="poppy" creationdate="20250512T131352Z">
+        <seg>Alejandra Rodgríguez</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no sé que significa monotributista</note>
       <tuv lang="es-AR">
         <seg>Allí conversamos sobre las diferentes formas que puede adquirir un trabajo remunerado (registrado o no, en relación de dependencia, autónomo, monotributista, cooperativo).</seg>
@@ -347,6 +355,14 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Autoras del informe:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131358Z" creationid="poppy" creationdate="20250512T131358Z">
+        <seg>Report Authors:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Aún el 56% de las mujeres trans y travestis viven en situación de prostitución/trabajo sexual como principal fuente de ingresos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250506T164320Z" creationid="Socorra" creationdate="20250506T164320Z">
@@ -359,6 +375,14 @@ could be story or history</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250512T125603Z" creationid="poppy" creationdate="20250512T125603Z">
         <seg>Berkins, L.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Berkins, L.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131500Z" creationid="poppy" creationdate="20250512T131500Z">
+        <seg>Berkins, L. </seg>
       </tuv>
     </tu>
     <tu>
@@ -476,6 +500,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>Coordinadoras del Proyecto:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131301Z" creationid="poppy" creationdate="20250512T131301Z">
+        <seg>Project Coordinators</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>horizon could be outlook</note>
       <tuv lang="es-AR">
         <seg>Creemos que es fundamental comenzar a pensar el “afuera” desde el “adentro”, abriendo un espacio que permita construir herramientas y horizontes para la vida en libertad mientras aún se transita el encierro.</seg>
@@ -572,6 +604,23 @@ review de forma diferencial</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T154939Z" creationid="poppy" creationdate="20250430T154939Z">
         <seg>From the PPN, the work that follows is based on the coordination between the Directorate of Cooperation and International Relations and the Sexual and Gender Diversity Team of the Directorate of Overlooked Collectives.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>?</note>
+      <tuv lang="es-AR">
+        <seg>Dirección de Colectivos Sobrevulnerados</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131235Z" creationid="poppy" creationdate="20250512T131235Z">
+        <seg>Directorate of Vulnerable Groups</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Dirección de Cooperación y Relaciones Internacionales</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131250Z" creationid="poppy" creationdate="20250512T131250Z">
+        <seg>Directorate of Cooperation and International Relations</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1027,14 @@ maybe check the last part after the and again</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173252Z" creationid="poppy" creationdate="20250430T173240Z">
         <seg>Regularly entering the prison implies an interruption of &lt;t0/&gt;carcel time&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Equipo docente:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131318Z" creationid="poppy" creationdate="20250512T131318Z">
+        <seg>Teaching team:</seg>
       </tuv>
     </tu>
     <tu>
