@@ -1349,6 +1349,15 @@ maybe check the last part after the and again</note>
       </tuv>
     </tu>
     <tu>
+      <note>(SNEEO)</note>
+      <tuv lang="es-AR">
+        <seg>Estos datos son publicados en el Sistema Nacional de Estadísticas Sobre la Ejecución de la Pena (SNEEP) producido por la Dirección Nacional de Política Criminal, dependiente del Ministerio de Justicia y Derechos Humanos de la Nación, que todos los años da a conocer la información del período anterior.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130827Z" creationid="poppy" creationdate="20250512T130827Z">
+        <seg>This data is published in the National System of Statistics on the Execution of Sentences (SNEEP) produced by the National Directorate of Criminal Policy, under the Ministry of Justice and Human Rights of the Nation, which annually publishes information from the previous year. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="es-AR">
         <seg>Estos talleres son, además, una forma de desafiar el modelo penitenciario actual, que tradicionalmente se ha basado en el castigo como única respuesta a la responsabilidad.</seg>
       </tuv>
@@ -1840,6 +1849,15 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250512T130137Z" creationid="poppy" creationdate="20250512T130137Z">
         <seg>Public Ministry of Defense of the City of Buenos Aires, Mocha Celis. &lt;t0/&gt;La revolución de las mariposas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>(y más acá?)</note>
+      <tuv lang="es-AR">
+        <seg>Más allá (y más acá)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130927Z" creationid="poppy" creationdate="20250512T130927Z">
+        <seg>Beyond (and past)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2532,6 +2550,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T173146Z" creationid="poppy" creationdate="20250506T173146Z">
         <seg>She returned on this day and many others, no longer as an incarcerated person, but a teacher. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Wola, Procuración Penitenciaria de la Nación, Corpora en Libertad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130704Z" creationid="poppy" creationdate="20250512T130704Z">
+        <seg>Wola, Procuración Penitenciaria de la Nación, corpora en Libertad.</seg>
       </tuv>
     </tu>
     <tu>
