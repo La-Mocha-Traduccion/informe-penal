@@ -418,6 +418,14 @@ could be story or history</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>Conocer el articulado y la importancia de la ley de identidad de género es fundamental para la exigibilidad de los derechos que funda.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T122326Z" creationid="poppy" creationdate="20250512T122326Z">
+        <seg>To understand the importance of the Gender Identity Law is fundamental if we wish to enforce the rights that it founds. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>look closely on the second pass</note>
       <tuv lang="es-AR">
         <seg>Conocer su experiencia, las formas organizativas, los recursos que supo construir y que pone a disposición, es clave para aminorar la sensación de soledad que se tiene adentro, pero también que se tiene cuando se vuelve inminente la posibilidad del afuera.</seg>
@@ -1664,6 +1672,14 @@ critical could be dire</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Lo mismo ocurre con la Ley de Cupo Laboral TTNB y su historia de lucha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T122404Z" creationid="poppy" creationdate="20250512T122404Z">
+        <seg>The same is true of the TTNB Labor Quota Law and its history of struggle. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Lo propio y lo ajeno entrecruzandonse y volviéndose más inteligible.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T141607Z" creationid="poppy" creationdate="20250508T141607Z">
@@ -1825,8 +1841,8 @@ biographies could be life stories</note>
       <tuv lang="es-AR">
         <seg>O para aquellas personas que por alguna razón no lo quieren realizar.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250508T154815Z" creationid="poppy" creationdate="20250508T154815Z">
-        <seg>or for those people who do not want to [REALIZAR]. </seg>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T122112Z" creationid="poppy" creationdate="20250508T154815Z">
+        <seg>or for those people who, for whatever reason, do not wish to identify themselves on official documentation. </seg>
       </tuv>
     </tu>
     <tu>
