@@ -1827,6 +1827,23 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Ministerio Público de la Defensa de la Ciudad de Buenos Aires, Mocha Celis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130209Z" creationid="poppy" creationdate="20250512T130209Z">
+        <seg>Public Ministry of Defense of the City of Buenos Aires, Mocha Celis.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Ministerio Público de la Defensa de la Ciudad de Buenos Aires, Mocha Celis.&lt;t0/&gt; La revolución de las mariposas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130137Z" creationid="poppy" creationdate="20250512T130137Z">
+        <seg>Public Ministry of Defense of the City of Buenos Aires, Mocha Celis. &lt;t0/&gt;La revolución de las mariposas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Más allá (y más acá) de los muros</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T155613Z" creationid="poppy" creationdate="20250430T155613Z">
@@ -2499,6 +2516,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173516Z" creationid="poppy" creationdate="20250430T173516Z">
         <seg>Various participants mentioned that they perceived time in prison as  &lt;t2/&gt;outside of time, a time that didn't exist&lt;t3/&gt;or a &lt;t4/&gt;tomb&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Violencia contra personas lesbianas, gay, bisexuales,trans e intersex en América, 2015.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130034Z" creationid="poppy" creationdate="20250512T130034Z">
+        <seg>Violence against lesbian, gay, bisexual, transgender, and intersex people in America, 2015.</seg>
       </tuv>
     </tu>
     <tu>
