@@ -2520,6 +2520,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="es-AR">
+        <seg>“&lt;t0/&gt;Me llevo de este taller el conocimiento de la ley de identidad de género.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T122448Z" creationid="poppy" creationdate="20250512T122448Z">
+        <seg>"I took from this workshop a new knowledge of the gender identtiy law.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>I don't understand this</note>
       <tuv lang="es-AR">
         <seg>“&lt;t0/&gt;Yo me quedo con la familia que se armó.</seg>
