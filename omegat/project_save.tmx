@@ -371,10 +371,26 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Ciudad Autónoma de Buenos Aires, 1990-2019”, 2019.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125747Z" creationid="poppy" creationdate="20250512T125747Z">
+        <seg>Ciudad Autónoma de Buenos Aires, 1990-2019", 2019.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Comer rico.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250509T190351Z" creationid="Socorra" creationdate="20250509T190351Z">
         <seg>Eating well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Comisión Interamericana de Derechos Humanos (CIDH).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130018Z" creationid="poppy" creationdate="20250512T130018Z">
+        <seg>Comisión Interamericana de Derechos Humanos (CIDH) </seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2462,14 @@ using a lot here bc much doesn't work as a translation</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Tesis para optar por el título de Magíster en Estudios Interdisciplinarios de la Subjetividad Facultad de Filosofía y Letras – Universidad de Buenos Aires</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125915Z" creationid="poppy" creationdate="20250512T125915Z">
+        <seg>Thesis for the title of Masters in Interdisciplinary Studies of Subjectivity, Faculty of Philosphy and Letters, University of Buenos Aires. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Trabajar desde este enfoque, con el horizonte puesto en la inclusión, nos permitirá hablar de una verdadera oportunidad de crecimiento para nuestra comunidad.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T162215Z" creationid="Socorra" creationdate="20250430T162215Z">
@@ -2646,6 +2670,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173201Z" creationid="poppy" creationdate="20250430T173201Z">
         <seg>"The workshop was a bridge that allowed us to think of the outside."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>“Ley de Identidad de Género.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125719Z" creationid="poppy" creationdate="20250512T125719Z">
+        <seg>"Ley de Identidad de Género.</seg>
       </tuv>
     </tu>
     <tu>
