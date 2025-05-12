@@ -2250,6 +2250,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Presidenta</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130934Z" creationid="poppy" creationdate="20250512T130934Z">
+        <seg>President</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Presidenta Asociación Civil Mocha Celis</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T163544Z" creationid="Socorra" creationdate="20250430T163544Z">
@@ -2348,10 +2356,26 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Revisore de Cuentas:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131208Z" creationid="poppy" creationdate="20250512T131208Z">
+        <seg>Reviewer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Se trabajó sobre poder diferenciar entre el respeto en la convivencia, la diferencia entre sobrevivir versus convivir y la importancia de desarrollar habilidades para la resolución de conflictos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T141724Z" creationid="poppy" creationdate="20250508T141724Z">
         <seg>Together, we worked on differentiating between respect and coexistence, the difference between living and living together, and the importance of developing conflict resolution skills. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Secretaria</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131046Z" creationid="poppy" creationdate="20250512T131046Z">
+        <seg>Secretary</seg>
       </tuv>
     </tu>
     <tu>
@@ -2505,6 +2529,14 @@ using a lot here bc much doesn't work as a translation</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Tesorera</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131103Z" creationid="poppy" creationdate="20250512T131103Z">
+        <seg>Treasurer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Trabajar desde este enfoque, con el horizonte puesto en la inclusión, nos permitirá hablar de una verdadera oportunidad de crecimiento para nuestra comunidad.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250430T162215Z" creationid="Socorra" creationdate="20250430T162215Z">
@@ -2542,6 +2574,23 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250512T130034Z" creationid="poppy" creationdate="20250512T130034Z">
         <seg>Violence against lesbian, gay, bisexual, transgender, and intersex people in America, 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>?</note>
+      <tuv lang="es-AR">
+        <seg>Vocales Suplentes:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131147Z" creationid="poppy" creationdate="20250512T131147Z">
+        <seg>Substitue Members:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Vocales:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T131114Z" creationid="poppy" creationdate="20250512T131114Z">
+        <seg>Members:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2687,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250512T123234Z" creationid="poppy" creationdate="20250512T123234Z">
         <seg>I hadn't known that I had a law defending my existence."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>de los muros</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T130931Z" creationid="poppy" creationdate="20250512T130931Z">
+        <seg>the prison walls</seg>
       </tuv>
     </tu>
     <tu>
