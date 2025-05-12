@@ -355,6 +355,14 @@ could be story or history</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Berkins L.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125603Z" creationid="poppy" creationdate="20250512T125603Z">
+        <seg>Berkins, L.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Cada uno de los encuentros, a su vez, en términos generales, siempre pretendió compartir un momento de comida y disfrute.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Socorra" changedate="20250509T185454Z" creationid="Socorra" creationdate="20250509T185454Z">
@@ -1415,6 +1423,22 @@ maybe check the last part after the and again</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Informe Nacional sobre la situación de las travestis, transexuales y transgéneros.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125643Z" creationid="poppy" creationdate="20250512T125643Z">
+        <seg>Informe Nacional sobre la situación de las travestis, transexuales y transgéneros. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Ingresar a los penales con propuestas de este tipo es también un acto de reparación y de justicia, que busca revertir el abandono estatal y garantizar que los derechos humanos sean respetados en todos los espacios.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125509Z" creationid="poppy" creationdate="20250512T125509Z">
+        <seg>To enter prisons with proposals of this kind is also an act of reparation and justice, which seeks to reverse state neglect and ensure that human rights are respected in all spaces. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Interrumpir el tiempo para dar espacio a cosas nuevas.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250506T172559Z" creationid="poppy" creationdate="20250506T172559Z">
@@ -2249,6 +2273,14 @@ biographies could be life stories</note>
     </tu>
     <tu>
       <tuv lang="es-AR">
+        <seg>Referencias bibliográficas</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125514Z" creationid="poppy" creationdate="20250512T125514Z">
+        <seg>Bibliography</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
         <seg>Reforzaremos las palabras con citas textuales que surgieron de las entrevistas y las charlas con las participantes.</seg>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250430T173009Z" creationid="poppy" creationdate="20250430T172648Z">
@@ -2269,6 +2301,14 @@ biographies could be life stories</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T141724Z" creationid="poppy" creationdate="20250508T141724Z">
         <seg>Together, we worked on differentiating between respect and coexistence, the difference between living and living together, and the importance of developing conflict resolution skills. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>Segunda Edición, 2015.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125655Z" creationid="poppy" creationdate="20250512T125655Z">
+        <seg>Second Edition, 2015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2654,14 @@ using a lot here bc much doesn't work as a translation</note>
       </tuv>
       <tuv lang="en-US" changeid="poppy" changedate="20250508T133411Z" creationid="poppy" creationdate="20250508T133402Z">
         <seg>"I left this workshop having made a CV. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es-AR">
+        <seg>“Un itinerario político del travestismo” Lohana Berkins, en Sexualidades Migrantes y Género, compilación de Diana Maffía.Buenos Aires, Feminaria Editora.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="poppy" changedate="20250512T125557Z" creationid="poppy" creationdate="20250512T125557Z">
+        <seg>"Un itinerario político del travestismo" Lohana Berkins, in Sexualidades Migrantes y Género, compiled by Diana Maffía. Buenos Aires, Feminaria Editora.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
