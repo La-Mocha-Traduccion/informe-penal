@@ -1321,8 +1321,8 @@ maybe check the last part after the and again</note>
       <tuv lang="es-AR">
         <seg>Este trabajo da cuenta de la experiencia y el desarrollo del proyecto “Más allá de los muros: Fortalecimiento de derechos en el proceso de liberación de personas travestis, trans y no binarias privadas de su libertad”, llevada adelante por la Procuración Penitenciaria de la Nación, la Asociación Mocha Celis y la Embajada de Países Bajos.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T160244Z" creationid="poppy" creationdate="20250430T153740Z">
-        <seg>This work accounts for the experience and development of the project "Beyond the walls: Strengthening of rights in the process of liberating transvestite, trans and non-binary people deprived of their liberty," carried out by the Prison Ombudsman's National Office (&lt;x0&gt;Procuración Penitenciaria Nacional&lt;/x0&gt;), the Mocha Celis Civil Association (&lt;x0&gt;Associación Civil Mocha Celi&lt;/x0&gt;)  and the Embassy of the Netherlands.  </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250512T163146Z" creationid="poppy" creationdate="20250430T153740Z">
+        <seg>This work accounts for the experience and development of the project "Beyond the walls: Strengthening of rights in the process of liberating transvestite, trans and non-binary people deprived of their liberty," carried out by the Prison Ombudsman's National Office (henceforth PPN from Procuración Penitenciaria Nacional), the Mocha Celis Civil Association (&lt;x0&gt;Associación Civil Mocha Celi&lt;/x0&gt;)  and the Embassy of the Netherlands.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,8 +1353,8 @@ maybe check the last part after the and again</note>
       <tuv lang="es-AR">
         <seg>Esto implica la necesidad de políticas públicas inclusivas que aborden las particularidades y desafíos que enfrentamos, así como la implementación de programas que promuevan nuestro bienestar físico y emocional, siempre siendo parte de esta  transformación, pensando en la necesidad de seguir construyendo el mundo en el que queremos vivir.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Socorra" changedate="20250430T161422Z" creationid="Socorra" creationdate="20250430T161422Z">
-        <seg>This implicated the need for inclusive public policies that address the particularities and challenges we face, just as the implementation of programs that promote our physical and emotional well-being, always being part of this transformation, thinking about the need to continue constructing the world in which we want to live.</seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250512T170224Z" creationid="Socorra" creationdate="20250430T161422Z">
+        <seg>This implicates the need for inclusive public policies that address the particularities and challenges we face, just as the implementation of programs that promote our physical and emotional well-being, always being part of this transformation, thinking about the need to continue constructing the world in which we want to live.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,8 +1458,8 @@ maybe check the last part after the and again</note>
       <tuv lang="es-AR">
         <seg>Fortalecimiento de derechos en el proceso de liberación de las personas  travestis, trans y no binarias privadas de su libertad&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T153425Z" creationid="poppy" creationdate="20250430T153425Z">
-        <seg>Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250512T155821Z" creationid="poppy" creationdate="20250430T153425Z">
+        <seg>Strengthening rights in the process of liberating travesti, trans, and non-binary people deprived of their liberty </seg>
       </tuv>
     </tu>
     <tu>
@@ -2155,8 +2155,8 @@ biographies could be life stories</note>
       <tuv lang="es-AR">
         <seg>Pero sobre todo quiero agradecer a las personas travestis y trans que fueron parte de este proyecto por su confianza y su compromiso con el espacio.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T155147Z" creationid="poppy" creationdate="20250430T155147Z">
-        <seg>But overall we would like to thank the transvestite and trans people who were part of this project for their trust and engagement with the space.Strengthening rights in the process of liberating travestis, trans, and non-binary people deprived of liberty  </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250512T164153Z" creationid="poppy" creationdate="20250430T155147Z">
+        <seg>But overall we would like to thank the transvestite and trans people who were part of this project for their trust and engagement with the space.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2325,16 +2325,16 @@ biographies could be life stories</note>
       <tuv lang="es-AR">
         <seg>Procuración Penitenciaria Nacional</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T160130Z" creationid="poppy" creationdate="20250430T160130Z">
-        <seg>Prison Ombudsman's National Office (&lt;x0&gt;Procuración Penitenciaria Nacional&lt;/x0&gt;) </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250512T160724Z" creationid="poppy" creationdate="20250430T160130Z">
+        <seg>Prison Ombudsman's National Office</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="es-AR">
         <seg>Procuración Penitenciaria de la Nación</seg>
       </tuv>
-      <tuv lang="en-US" changeid="poppy" changedate="20250430T155359Z" creationid="poppy" creationdate="20250430T155359Z">
-        <seg>Procuración Penitenciaria de la Nación </seg>
+      <tuv lang="en-US" changeid="Socorra" changedate="20250512T155919Z" creationid="poppy" creationdate="20250430T155359Z">
+        <seg>Prison Ombudsman's National Office</seg>
       </tuv>
     </tu>
     <tu>
